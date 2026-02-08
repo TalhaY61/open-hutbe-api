@@ -1,0 +1,43 @@
+name: Weekly Hutbe Update
+
+on:
+  schedule:
+    # Runs every Friday at 05:00 UTC
+    - cron: '0 5 * * 5'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-hutbes:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run Scraper Bot
+        run: python scripts/scraper.py
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name 'Hutbe Bot'
+          git config --global user.email 'bot@noreply.github.com'
+          
+          git add .
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit. Workflow finished."
+          else
+            git commit -m "Hutbe Bot: Update hutbes for $(date +'%Y-%m-%d')"
+            git push
+          fi
