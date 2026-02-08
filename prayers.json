@@ -1,0 +1,16 @@
+[
+  {
+    "id": "friday_prayer",
+    "title": "Friday Khutbah Prayers",
+    "filename": "friday-khutbah-prayers.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/prayers/friday-khutbah-prayers.pdf",
+    "source_url": "https://dinhizmetleri.diyanet.gov.tr/HutbeDualari/Cuma%20Hutbesi%20Dualar%C4%B1.pdf"
+  },
+  {
+    "id": "eid_prayer",
+    "title": "Eid Khutbah Prayers",
+    "filename": "eid-khutbah-prayers.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/prayers/eid-khutbah-prayers.pdf",
+    "source_url": "https://dinhizmetleri.diyanet.gov.tr/HutbeDualari/Bayram%20Hutbesi%20Dualar%C4%B1.pdf"
+  }
+]
