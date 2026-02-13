@@ -1,5 +1,45 @@
 [
   {
+    "id": "95303134baa2aaa4",
+    "title": "El Ambiente De Ramadán",
+    "date": "2026-02-13",
+    "year": 2026,
+    "language": "es",
+    "filename": "el-ambiente-de-ramadan.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/El%20Ambiente%20De%20Ramad%C3%A1n.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/el-ambiente-de-ramadan.pdf"
+  },
+  {
+    "id": "2ff351c107bfc215",
+    "title": "Accueillir Le Mois Béni De Ramadan",
+    "date": "2026-02-13",
+    "year": 2026,
+    "language": "fr",
+    "filename": "accueillir-le-mois-beni-de-ramadan.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Accueillir%20Le%20Mois%20B%C3%A9ni%20De%20Ramadan.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/accueillir-le-mois-beni-de-ramadan.pdf"
+  },
+  {
+    "id": "8d92039eadf3b354",
+    "title": "The Climate of Ramadan",
+    "date": "2026-02-13",
+    "year": 2026,
+    "language": "en",
+    "filename": "the-climate-of-ramadan.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/The%20Climate%20of%20Ramadan.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/the-climate-of-ramadan.pdf"
+  },
+  {
+    "id": "a54d485a9f584ccf",
+    "title": "Ramazan İklimi",
+    "date": "2026-02-13",
+    "year": 2026,
+    "language": "tr",
+    "filename": "ramazan-iklimi.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramazan%20%C4%B0klimi.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/ramazan-iklimi.pdf"
+  },
+  {
     "id": "186d4f739912d89b",
     "title": "El ser humano obtiene la tranquilidad a través de la adoración",
     "date": "2025-12-05",
