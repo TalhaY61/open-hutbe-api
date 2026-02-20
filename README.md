@@ -42,10 +42,10 @@ Diyanet İşleri Başkanlığı tarafından haftalık yayınlanan Cuma Hutbeleri
 ### Kullanım
 
 **1. Tüm Hutbeler**
-https://raw.githubusercontent.com/TalhaY61/open-hutbe-api/main/hutbeler.json
+https://raw.githubusercontent.com/TalhaY61/open-hutbe-api/main/hutbes.json
 
 **2. Hutbe Duaları**
-https://raw.githubusercontent.com/TalhaY61/open-hutbe-api/main/dualar.json
+https://raw.githubusercontent.com/TalhaY61/open-hutbe-api/main/prayers.json
 
 ### Veri Yapısı
 
