@@ -21,6 +21,7 @@ GITHUB_PAGES_BASE = f"https://{GITHUB_USERNAME}.github.io/{GITHUB_REPO}"
 START_PAGE = 1
 END_PAGE = int(os.getenv("HUTBE_MAX_PAGES", "10")) 
 TIMEOUT = 45
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
 
 # Static Prayer PDFs
 PRAYER_URLS = {
@@ -157,7 +158,7 @@ def extract_pdf_candidates(page_html: str, page_url: str) -> List[Dict]:
         
         title = pdf_anchor.get_text(" ", strip=True)
         if not title or len(title) < 3:
-             title = Path(unquote(urlsplit(source_pdf_url).path)).stem
+            title = Path(unquote(urlsplit(source_pdf_url).path)).stem
 
         candidates.append({
             "source_pdf_url": source_pdf_url,
@@ -180,6 +181,37 @@ def extract_pdf_candidates(page_html: str, page_url: str) -> List[Dict]:
                     "found_on_page": page_url,
                 })
 
+    # 3. Method: SharePoint list data (WPQ*ListData)
+    if not candidates:
+        match = re.search(r"var\s+WPQ\d+ListData\s*=\s*(\{.*?\});", page_html, re.S)
+        if match:
+            try:
+                list_data = json.loads(match.group(1))
+                for row in list_data.get("Row", []):
+                    pdf_path = row.get("PDF")
+                    if not pdf_path:
+                        continue
+
+                    source_pdf_url = urljoin(BASE_SITE, pdf_path)
+                    title = row.get("Title") or row.get("PDF.desc") or Path(unquote(urlsplit(source_pdf_url).path)).stem
+
+                    parsed_date = None
+                    raw_date = (row.get("Tarih") or "").strip()
+                    if raw_date:
+                        try:
+                            parsed_date = datetime.strptime(raw_date, "%d.%m.%Y").date()
+                        except ValueError:
+                            parsed_date = None
+
+                    candidates.append({
+                        "source_pdf_url": source_pdf_url,
+                        "title": title,
+                        "date": parsed_date,
+                        "found_on_page": page_url,
+                    })
+            except json.JSONDecodeError:
+                pass
+
     return candidates
 
 def determine_year(candidate: Dict) -> int:
@@ -194,6 +226,10 @@ def determine_year(candidate: Dict) -> int:
 def main() -> None:
     requests.packages.urllib3.disable_warnings() 
     session = requests.Session()
+    session.headers.update({
+        "User-Agent": USER_AGENT,
+        "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
+    })
     
     # Process Prayers first
     process_prayers(session)
@@ -210,13 +246,17 @@ def main() -> None:
         print(f"--- Scanning Language: {lang.upper()} ---")
         
         for page_num in range(START_PAGE, END_PAGE + 1):
-            page_url = f"{base_url}?page={page_num}"
+            page_url = base_url if page_num == 1 else f"{base_url}?page={page_num}"
             print(f"   Scanning page {page_num}...")
             
             try:
                 response = session.get(page_url, timeout=TIMEOUT, verify=False)
                 if response.status_code != 200:
-                    print(f"   Page not found, skipping.")
+                    print("   Page not found, skipping.")
+                    break
+
+                if "Transaction ID" in response.text:
+                    print("   Access blocked for this page, stopping pagination.")
                     break
                 
                 candidates = extract_pdf_candidates(response.text, page_url)
@@ -234,8 +274,7 @@ def main() -> None:
                     year = determine_year(candidate)
                     base_slug = slugify_filename(candidate["title"])
                     filename = f"{base_slug}.pdf"
-                    
-                    local_rel_path = f"{lang}/{year}/{filename}"
+
                     local_path = PDF_ROOT / lang / str(year) / filename
                     
                     if local_path.exists():
@@ -247,7 +286,7 @@ def main() -> None:
                     
                     if success:
                         public_url = f"{GITHUB_PAGES_BASE}/pdfs/{lang}/{year}/{quote(filename)}"
-                        date_str = candidate["date"].isoformat() if candidate["date"] else datetime.now().strftime("%Y-%m-%d")
+                        date_str = candidate["date"].isoformat() if candidate["date"] else datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
                         new_entry = {
                             "id": h_id,

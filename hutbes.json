@@ -1,5 +1,145 @@
 [
   {
+    "id": "73a5233f5f3f3fb5",
+    "title": "Ramadán la mezquita y la vida",
+    "date": "2026-02-20",
+    "year": 2026,
+    "language": "es",
+    "filename": "ramadan-la-mezquita-y-la-vida.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramad%C3%A1n%20la%20mezquita%20y%20la%20vida.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/ramadan-la-mezquita-y-la-vida.pdf"
+  },
+  {
+    "id": "4086120587d503aa",
+    "title": "Il Nostro Profeta (Pbsl) E L’etıca Del Commercıo",
+    "date": "2026-02-20",
+    "year": 2026,
+    "language": "it",
+    "filename": "il-nostro-profeta-pbsl-e-letica-del-commercio.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Il%20Nostro%20Profeta%20(Pbsl)%20E%20L%E2%80%99et%C4%B1ca%20Del%20Commerc%C4%B1o.doc",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/il-nostro-profeta-pbsl-e-letica-del-commercio.pdf"
+  },
+  {
+    "id": "9cee6550bd0d9231",
+    "title": "L&#39;atmosfera Del Ramadan",
+    "date": "2026-02-20",
+    "year": 2026,
+    "language": "it",
+    "filename": "l-39-atmosfera-del-ramadan.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/L'atmosfera%20Del%20Ramadan.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/l-39-atmosfera-del-ramadan.pdf"
+  },
+  {
+    "id": "d3766a29239f2e9d",
+    "title": "Ramadan, Moschea E Vita",
+    "date": "2026-02-20",
+    "year": 2026,
+    "language": "it",
+    "filename": "ramadan-moschea-e-vita.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramadan,%20Moschea%20E%20Vita.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/ramadan-moschea-e-vita.pdf"
+  },
+  {
+    "id": "21a659e177b6dde5",
+    "title": "الوَحْدَةُ وَالتَّآلُفُ",
+    "date": "2026-02-06",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-21a659.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D9%88%D9%8E%D8%AD%D9%92%D8%AF%D9%8E%D8%A9%D9%8F%20%D9%88%D9%8E%D8%A7%D9%84%D8%AA%D9%91%D9%8E%D8%A2%D9%84%D9%8F%D9%81%D9%8F.doc",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-21a659.pdf"
+  },
+  {
+    "id": "d1caed027492f2d8",
+    "title": "أَجْوَاءُ رَمَضَانَ",
+    "date": "2026-02-13",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-d1caed.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A3%D9%8E%D8%AC%D9%92%D9%88%D9%8E%D8%A7%D8%A1%D9%8F%20%D8%B1%D9%8E%D9%85%D9%8E%D8%B6%D9%8E%D8%A7%D9%86%D9%8E.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-d1caed.pdf"
+  },
+  {
+    "id": "a42bd7832c0a1403",
+    "title": "رَمَضَانُ، المَسْجِدَ وَالحَيَاةَ",
+    "date": "2026-02-20",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-a42bd7.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%B1%D9%8E%D9%85%D9%8E%D8%B6%D9%8E%D8%A7%D9%86%D9%8F%D8%8C%20%D8%A7%D9%84%D9%85%D9%8E%D8%B3%D9%92%D8%AC%D9%90%D8%AF%D9%8E%20%D9%88%D9%8E%D8%A7%D9%84%D8%AD%D9%8E%D9%8A%D9%8E%D8%A7%D8%A9%D9%8E.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-a42bd7.pdf"
+  },
+  {
+    "id": "1330e5c13bbbecba",
+    "title": "Атмосфера Рамадана",
+    "date": "2026-02-13",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-1330e5.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D0%90%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D0%BC%D0%B0%D0%B4%D0%B0%D0%BD%D0%B0.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-1330e5.pdf"
+  },
+  {
+    "id": "b7ea775253887485",
+    "title": "Рамадан, Мечеть И Жизнь",
+    "date": "2026-02-20",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-b7ea77.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D0%A0%D0%B0%D0%BC%D0%B0%D0%B4%D0%B0%D0%BD,%20%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C%20%D0%98%20%D0%96%D0%B8%D0%B7%D0%BD%D1%8C.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-b7ea77.pdf"
+  },
+  {
+    "id": "9be8266884817985",
+    "title": "Le Ramadan, La Mosquee Et La Vıe",
+    "date": "2026-02-20",
+    "year": 2026,
+    "language": "fr",
+    "filename": "le-ramadan-la-mosquee-et-la-vie.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Le%20Ramadan,%20La%20Mosquee%20Et%20La%20V%C4%B1e.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/le-ramadan-la-mosquee-et-la-vie.pdf"
+  },
+  {
+    "id": "7138b7fc5302735e",
+    "title": "Ramadan, Mosque, and Life",
+    "date": "2026-02-20",
+    "year": 2026,
+    "language": "en",
+    "filename": "ramadan-mosque-and-life.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramadan,%20Mosque,%20and%20Life.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/ramadan-mosque-and-life.pdf"
+  },
+  {
+    "id": "642fc87a090dfad4",
+    "title": "Das Klima Des Ramadan",
+    "date": "2026-02-13",
+    "year": 2026,
+    "language": "de",
+    "filename": "das-klima-des-ramadan.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Das%20Klima%20Des%20Ramadan.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/das-klima-des-ramadan.pdf"
+  },
+  {
+    "id": "644f82e213a589cc",
+    "title": "Ramadan, Moschee Und Leben",
+    "date": "2026-02-20",
+    "year": 2026,
+    "language": "de",
+    "filename": "ramadan-moschee-und-leben.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramadan,%20Moschee%20Und%20Leben.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/ramadan-moschee-und-leben.pdf"
+  },
+  {
+    "id": "387f4b989d309404",
+    "title": "Ramazan, Cami ve Hayat",
+    "date": "2026-02-20",
+    "year": 2026,
+    "language": "tr",
+    "filename": "ramazan-cami-ve-hayat.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramazan,%20Cami%20ve%20Hayat.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/ramazan-cami-ve-hayat.pdf"
+  },
+  {
     "id": "95303134baa2aaa4",
     "title": "El Ambiente De Ramadán",
     "date": "2026-02-13",

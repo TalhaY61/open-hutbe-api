@@ -2,8 +2,8 @@ name: Weekly Hutbe Update
 
 on:
   schedule:
-    # Runs every Friday at 05:00 UTC
-    - cron: '0 5 * * 5'
+    # Runs every Friday at 10:00 UTC
+    - cron: '0 10 * * 5'
   workflow_dispatch: # Allows manual trigger
 
 jobs:
