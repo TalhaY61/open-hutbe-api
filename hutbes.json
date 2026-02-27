@@ -1,5 +1,85 @@
 [
   {
+    "id": "81afccafd7f3824e",
+    "title": "Ramadán es una oportunidad en la lucha contra la adicción",
+    "date": "2026-02-27",
+    "year": 2026,
+    "language": "es",
+    "filename": "ramadan-es-una-oportunidad-en-la-lucha-contra-la-adiccion.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramad%C3%A1n%20es%20una%20oportunidad%20en%20la%20lucha%20contra%20la%20adicci%C3%B3n.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/ramadan-es-una-oportunidad-en-la-lucha-contra-la-adiccion.pdf"
+  },
+  {
+    "id": "98653bf0a2cfab7a",
+    "title": "Il Ramadan È Un’Opportunità Nella Lotta Contro Le Dipendenze",
+    "date": "2026-02-27",
+    "year": 2026,
+    "language": "it",
+    "filename": "il-ramadan-e-unopportunita-nella-lotta-contro-le-dipendenze.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Il%20Ramadan%20E%CC%80%20Un%E2%80%99Opportunit%C3%A0%20Nella%20Lotta%20Contro%20Le%20Dipendenze.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/il-ramadan-e-unopportunita-nella-lotta-contro-le-dipendenze.pdf"
+  },
+  {
+    "id": "d39b423860fee52c",
+    "title": "رَمَضَانُ فُرْصَةٌ لِمُكَافَحَةِ الإِدْمَانِ",
+    "date": "2026-02-27",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-d39b42.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/رَمَضَانُ فُرْصَةٌ لِمُكَافَحَةِ الإِدْمَانِ.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-d39b42.pdf"
+  },
+  {
+    "id": "beb59860076dd7bc",
+    "title": "Рамадан – Возможность Побороть Зависимость",
+    "date": "2026-02-27",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-beb598.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Рамадан – Возможность Побороть Зависимость.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-beb598.pdf"
+  },
+  {
+    "id": "ab0c9edf31c16478",
+    "title": "Ramadan, une occasion de lutter contre les dépendances",
+    "date": "2026-02-27",
+    "year": 2026,
+    "language": "fr",
+    "filename": "ramadan-une-occasion-de-lutter-contre-les-dependances.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramadan,%20une%20occasion%20de%20lutter%20contre%20les%20d%C3%A9pendances.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/ramadan-une-occasion-de-lutter-contre-les-dependances.pdf"
+  },
+  {
+    "id": "ff597cc368857872",
+    "title": "Ramadan Is an Opportunity in the Fight Against Addiction",
+    "date": "2026-02-27",
+    "year": 2026,
+    "language": "en",
+    "filename": "ramadan-is-an-opportunity-in-the-fight-against-addiction.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramadan%20Is%20an%20Opportunity%20in%20the%20Fight%20Against%20Addiction.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/ramadan-is-an-opportunity-in-the-fight-against-addiction.pdf"
+  },
+  {
+    "id": "fcfdc800115df37c",
+    "title": "Ramadan Ist Eine Chance Im Kampf Gegen Die Sucht",
+    "date": "2026-02-27",
+    "year": 2026,
+    "language": "de",
+    "filename": "ramadan-ist-eine-chance-im-kampf-gegen-die-sucht.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramadan%20Ist%20Eine%20Chance%20Im%20Kampf%20Gegen%20Die%20Sucht.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/ramadan-ist-eine-chance-im-kampf-gegen-die-sucht.pdf"
+  },
+  {
+    "id": "921d0082f05b6d15",
+    "title": "Bağımlılıkla Mücadelede Ramazan Bir Fırsattır",
+    "date": "2026-02-27",
+    "year": 2026,
+    "language": "tr",
+    "filename": "bagimlilikla-mucadelede-ramazan-bir-firsattir.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ba%C4%9F%C4%B1ml%C4%B1l%C4%B1kla%20M%C3%BCcadelede%20Ramazan%20Bir%20F%C4%B1rsatt%C4%B1r.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/bagimlilikla-mucadelede-ramazan-bir-firsattir.pdf"
+  },
+  {
     "id": "73a5233f5f3f3fb5",
     "title": "Ramadán la mezquita y la vida",
     "date": "2026-02-20",
