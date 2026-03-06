@@ -1,5 +1,55 @@
 [
   {
+    "id": "dce0a94a92e3dc0b",
+    "title": "El Zakat y el Zakat al-Fitr",
+    "date": "2026-03-06",
+    "year": 2026,
+    "language": "es",
+    "filename": "el-zakat-y-el-zakat-al-fitr.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/El%20Zakat%20y%20el%20Zakat%20al-Fitr.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/el-zakat-y-el-zakat-al-fitr.pdf"
+  },
+  {
+    "id": "e440222107ccfdac",
+    "title": "Закя́т И Фитр-Садака",
+    "date": "2026-03-06",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-e44022.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D0%97%D0%B0%D0%BA%D1%8F%CC%81%D1%82%20%D0%98%20%D0%A4%D0%B8%D1%82%D1%80-%D0%A1%D0%B0%D0%B4%D0%B0%D0%BA%D0%B0.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-e44022.pdf"
+  },
+  {
+    "id": "540a590a7cf6e444",
+    "title": "Zakat and the Sadaqah of Fitr",
+    "date": "2026-03-06",
+    "year": 2026,
+    "language": "en",
+    "filename": "zakat-and-the-sadaqah-of-fitr.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Zakat%20and%20the%20Sadaqah%20of%20Fitr.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/zakat-and-the-sadaqah-of-fitr.pdf"
+  },
+  {
+    "id": "314b7f70b9c6d229",
+    "title": "Zakat und Fitr Sadaqa",
+    "date": "2026-03-06",
+    "year": 2026,
+    "language": "de",
+    "filename": "zakat-und-fitr-sadaqa.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Zakat%20und%20Fitr%20Sadaqa.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/zakat-und-fitr-sadaqa.pdf"
+  },
+  {
+    "id": "34a458a34d834526",
+    "title": "Zekat ve Fıtır Sadakası",
+    "date": "2026-03-06",
+    "year": 2026,
+    "language": "tr",
+    "filename": "zekat-ve-fitir-sadakasi.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Zekat%20ve%20F%C4%B1t%C4%B1r%20Sadakas%C4%B1.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/zekat-ve-fitir-sadakasi.pdf"
+  },
+  {
     "id": "81afccafd7f3824e",
     "title": "Ramadán es una oportunidad en la lucha contra la adicción",
     "date": "2026-02-27",
