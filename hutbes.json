@@ -1,5 +1,65 @@
 [
   {
+    "id": "b404da9144268898",
+    "title": "Profetas; Los Representantes De La Verdad Y La Justicia",
+    "date": "2026-03-13",
+    "year": 2026,
+    "language": "es",
+    "filename": "profetas-los-representantes-de-la-verdad-y-la-justicia.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Profetas;%20Los%20Representantes%20De%20La%20Verdad%20Y%20La%20Justicia.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/profetas-los-representantes-de-la-verdad-y-la-justicia.pdf"
+  },
+  {
+    "id": "fe1df17d61214ba7",
+    "title": "I Profeti, Rappresentanti Della Verità E Della Realtà",
+    "date": "2026-03-13",
+    "year": 2026,
+    "language": "it",
+    "filename": "i-profeti-rappresentanti-della-verita-e-della-realta.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/I%20Profeti,%20Rappresentanti%20Della%20Verit%C3%A0%20E%20Della%20Realt%C3%A0.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/i-profeti-rappresentanti-della-verita-e-della-realta.pdf"
+  },
+  {
+    "id": "631b8da4b1363c6f",
+    "title": "Пророки – Представители Права И Истины",
+    "date": "2026-03-13",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-631b8d.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Пророки – Представители Права И Истины.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-631b8d.pdf"
+  },
+  {
+    "id": "8a0301a4b0e66b12",
+    "title": "The Prophets; Representatives of Truth and Ultimate Reality",
+    "date": "2026-03-13",
+    "year": 2026,
+    "language": "en",
+    "filename": "the-prophets-representatives-of-truth-and-ultimate-reality.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/The%20Prophets;%20Representatives%20of%20Truth%20and%20Ultimate%20Reality.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/the-prophets-representatives-of-truth-and-ultimate-reality.pdf"
+  },
+  {
+    "id": "2dcf23ac2a8c9abe",
+    "title": "İnsan, Huzuru İbadetle Elde Eder",
+    "date": "2025-12-05",
+    "year": 2025,
+    "language": "tr",
+    "filename": "insan-huzuru-ibadetle-elde-eder-2dcf23.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/İnsan,%20Huzuru%20İbadetle%20Elde%20Eder.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2025/insan-huzuru-ibadetle-elde-eder-2dcf23.pdf"
+  },
+  {
+    "id": "8d5561fd3bcdba2c",
+    "title": "Hak ve Hakikatin Temsilcileri: Peygamberler",
+    "date": "2026-03-13",
+    "year": 2026,
+    "language": "tr",
+    "filename": "hak-ve-hakikatin-temsilcileri-peygamberler.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hak%20ve%20Hakikatin%20Temsilcileri;%20Peygamberler.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/hak-ve-hakikatin-temsilcileri-peygamberler.pdf"
+  },
+  {
     "id": "7996b54ea01f74cd",
     "title": "Zakat E La Sadaqa Di Fitr",
     "date": "2026-03-06",
