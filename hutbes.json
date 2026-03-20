@@ -1,5 +1,165 @@
 [
   {
+    "id": "16a31285b3bdbc68",
+    "title": "Ramadán como forma de vida",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "es",
+    "filename": "ramadan-como-forma-de-vida.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramad%C3%A1n%20como%20forma%20de%20vida.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/ramadan-como-forma-de-vida.pdf"
+  },
+  {
+    "id": "e32192ed934d1ed7",
+    "title": "Eid al Fitr",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "es",
+    "filename": "eid-al-fitr.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Eid%20al%20Fitr.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/eid-al-fitr.pdf"
+  },
+  {
+    "id": "928b3f3b6eda0a7f",
+    "title": "Rendere La Vita Un Ramadan",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "it",
+    "filename": "rendere-la-vita-un-ramadan.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Rendere%20La%20Vita%20Un%20Ramadan.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/rendere-la-vita-un-ramadan.pdf"
+  },
+  {
+    "id": "9e11bee63813b37d",
+    "title": "Festa Del Ramadan",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "it",
+    "filename": "festa-del-ramadan.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Festa%20Del%20Ramadan.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/festa-del-ramadan.pdf"
+  },
+  {
+    "id": "29d86a09b5ca7088",
+    "title": "جَعْلُ الحَيَاةِ رَمَضَانًا",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-29d86a.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%AC%D9%8E%D8%B9%D9%92%D9%84%D9%8F%20%D8%A7%D9%84%D8%AD%D9%8E%D9%8A%D9%8E%D8%A7%D8%A9%D9%90%20%D8%B1%D9%8E%D9%85%D9%8E%D8%B6%D9%8E%D8%A7%D9%86%D9%8B%D8%A7.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-29d86a.pdf"
+  },
+  {
+    "id": "5f6493afdb6f4460",
+    "title": "Жизнь В Духе Рамадана",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-5f6493.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D0%96%D0%B8%D0%B7%D0%BD%D1%8C%20%D0%92%20%D0%94%D1%83%D1%85%D0%B5%20%D0%A0%D0%B0%D0%BC%D0%B0%D0%B4%D0%B0%D0%BD%D0%B0.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-5f6493.pdf"
+  },
+  {
+    "id": "8f4834a2565acf7b",
+    "title": "Праздник Рамадан",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-8f4834.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%A0%D0%B0%D0%BC%D0%B0%D0%B4%D0%B0%D0%BD.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-8f4834.pdf"
+  },
+  {
+    "id": "4438b76ad70f43ff",
+    "title": "Les Prophètes, Les Représentants De La Vérıté Et De La Justıce",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "fr",
+    "filename": "les-prophetes-les-representants-de-la-verite-et-de-la-justice.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Les%20Proph%C3%A8tes,%20Les%20Repr%C3%A9sentants%20De%20La%20V%C3%A9r%C4%B1t%C3%A9%20Et%20De%20La%20Just%C4%B1ce.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/les-prophetes-les-representants-de-la-verite-et-de-la-justice.pdf"
+  },
+  {
+    "id": "35d7334b42feaa57",
+    "title": "Ramadan, une école pour toute la vie",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "fr",
+    "filename": "ramadan-une-ecole-pour-toute-la-vie.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramadan,%20une%20%C3%A9cole%20pour%20toute%20la%20vie.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/ramadan-une-ecole-pour-toute-la-vie.pdf"
+  },
+  {
+    "id": "94141d2915d29dda",
+    "title": "Aid al-Fitr",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "fr",
+    "filename": "aid-al-fitr.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Aid%20al-Fitr.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/aid-al-fitr.pdf"
+  },
+  {
+    "id": "8edca87afb7f03fc",
+    "title": "Eid al-fitr",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "en",
+    "filename": "eid-al-fitr.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Eid%20al_fitr.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/eid-al-fitr.pdf"
+  },
+  {
+    "id": "91ad14232be8b7a3",
+    "title": "Turning Life into Ramadan",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "en",
+    "filename": "turning-life-into-ramadan.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Turning%20Life%20into%20Ramadan.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/turning-life-into-ramadan.pdf"
+  },
+  {
+    "id": "a1342cba231c3320",
+    "title": "Das Leben Wie Ramadan Machen",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "de",
+    "filename": "das-leben-wie-ramadan-machen.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Das%20Leben%20Wie%20Ramadan%20Machen.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/das-leben-wie-ramadan-machen.pdf"
+  },
+  {
+    "id": "4b7db160586ffc52",
+    "title": "Ramadan-Fest",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "de",
+    "filename": "ramadan-fest.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramadan-Fest.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/ramadan-fest.pdf"
+  },
+  {
+    "id": "9948c3ea622f9e1e",
+    "title": "Hayatı Ramazan Kılmak",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "tr",
+    "filename": "hayati-ramazan-kilmak.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hayat%C4%B1%20Ramazan%20K%C4%B1lmak.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/hayati-ramazan-kilmak.pdf"
+  },
+  {
+    "id": "076555610fcacd3c",
+    "title": "Ramazan Bayramı",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "tr",
+    "filename": "ramazan-bayrami.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramazan%20Bayram%C4%B1.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/ramazan-bayrami.pdf"
+  },
+  {
     "id": "6f66fadf51c8afc0",
     "title": "مُمَثِّلُو الحَقِّ وَالحَقِيقَةِ, الأَنْبِيَاءُ",
     "date": "2026-03-13",
