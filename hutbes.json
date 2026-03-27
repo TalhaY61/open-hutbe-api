@@ -1,5 +1,55 @@
 [
   {
+    "id": "5076b9dffe53976d",
+    "title": "Il Tawakkul&nbsp; (L’Affidamento Ad Allah)",
+    "date": "2026-03-27",
+    "year": 2026,
+    "language": "it",
+    "filename": "il-tawakkul-nbsp-laffidamento-ad-allah.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Il%20Tawakkul%20%20(L%E2%80%99Affidamento%20Ad%20Allah).pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/il-tawakkul-nbsp-laffidamento-ad-allah.pdf"
+  },
+  {
+    "id": "bde0b67533b355b1",
+    "title": "التَّوَكُّلُ",
+    "date": "2026-03-27",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-bde0b6.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D8%AA%D9%91%D9%8E%D9%88%D9%8E%D9%83%D9%91%D9%8F%D9%84%D9%8F.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-bde0b6.pdf"
+  },
+  {
+    "id": "1fa5234051d28768",
+    "title": "La confiance en Allah (at-tawakkul)",
+    "date": "2026-03-27",
+    "year": 2026,
+    "language": "fr",
+    "filename": "la-confiance-en-allah-at-tawakkul.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/La%20confiance%20en%20Allah%20(at-tawakkul).pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/la-confiance-en-allah-at-tawakkul.pdf"
+  },
+  {
+    "id": "7c517c1d8ec37ccd",
+    "title": "Tawakkul",
+    "date": "2026-03-27",
+    "year": 2026,
+    "language": "en",
+    "filename": "tawakkul-7c517c.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Tawakkul%20-%20English.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/tawakkul-7c517c.pdf"
+  },
+  {
+    "id": "3a78b445675716a6",
+    "title": "Das Vertrauen auf Gott (Tawakkul)",
+    "date": "2026-03-27",
+    "year": 2026,
+    "language": "de",
+    "filename": "das-vertrauen-auf-gott-tawakkul.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Das%20Vertrauen%20auf%20Gott%20(Tawakkul).pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/das-vertrauen-auf-gott-tawakkul.pdf"
+  },
+  {
     "id": "ffa70201ec6c7758",
     "title": "Tawakkul",
     "date": "2026-03-27",
