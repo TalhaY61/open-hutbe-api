@@ -1,5 +1,55 @@
 [
   {
+    "id": "ffa70201ec6c7758",
+    "title": "Tawakkul",
+    "date": "2026-03-27",
+    "year": 2026,
+    "language": "es",
+    "filename": "tawakkul.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Tawakkull.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/tawakkul.pdf"
+  },
+  {
+    "id": "94d5adb22287a5ee",
+    "title": "عِيدِ الْفِطْرِ",
+    "date": "2026-03-20",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-94d5ad.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%B9%D9%90%D9%8A%D8%AF%D9%90%20%D8%A7%D9%84%D9%92%D9%81%D9%90%D8%B7%D9%92%D8%B1%D9%90.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-94d5ad.pdf"
+  },
+  {
+    "id": "9b045079a672546a",
+    "title": "Таваккюль",
+    "date": "2026-03-27",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-9b0450.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D0%A2%D0%B0%D0%B2%D0%B0%D0%BA%D0%BA%D1%8E%D0%BB%D1%8C.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-9b0450.pdf"
+  },
+  {
+    "id": "643a4c319329ed41",
+    "title": "Tawakkul",
+    "date": "2026-03-27",
+    "year": 2026,
+    "language": "en",
+    "filename": "tawakkul.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Tawakkul.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/tawakkul.pdf"
+  },
+  {
+    "id": "5fff7745ee352348",
+    "title": "Tevekkül",
+    "date": "2026-03-27",
+    "year": 2026,
+    "language": "tr",
+    "filename": "tevekkul.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Tevekk%C3%BCl.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/tevekkul.pdf"
+  },
+  {
     "id": "16a31285b3bdbc68",
     "title": "Ramadán como forma de vida",
     "date": "2026-03-20",
