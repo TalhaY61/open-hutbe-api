@@ -1,5 +1,85 @@
 [
   {
+    "id": "c17010e638459a94",
+    "title": "El viernes y la conciencia de la ummah",
+    "date": "2026-04-03",
+    "year": 2026,
+    "language": "es",
+    "filename": "el-viernes-y-la-conciencia-de-la-ummah.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/El%20viernes%20y%20la%20conciencia%20de%20la%20ummah.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/el-viernes-y-la-conciencia-de-la-ummah.pdf"
+  },
+  {
+    "id": "069a2746a2103998",
+    "title": "Il Venerdì E La Coscìenza Della Ummah",
+    "date": "2026-04-03",
+    "year": 2026,
+    "language": "it",
+    "filename": "il-venerdi-e-la-coscienza-della-ummah.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Il%20Venerd%C3%AC%20E%20La%20Cosc%C3%ACenza%20Della%20Ummah.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/il-venerdi-e-la-coscienza-della-ummah.pdf"
+  },
+  {
+    "id": "0b44e534451fba31",
+    "title": "الجُمُعَةُ وَوَعْيُ الأُمَّةِ",
+    "date": "2026-04-03",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-0b44e5.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D8%AC%D9%8F%D9%85%D9%8F%D8%B9%D9%8E%D8%A9%D9%8F%20%D9%88%D9%8E%D9%88%D9%8E%D8%B9%D9%92%D9%8A%D9%8F%20%D8%A7%D9%84%D8%A3%D9%8F%D9%85%D9%91%D9%8E%D8%A9%D9%90.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-0b44e5.pdf"
+  },
+  {
+    "id": "c9d4e4d86786bc5c",
+    "title": "Сознание Пятницы И Уммы",
+    "date": "2026-04-03",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-c9d4e4.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D0%A1%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D1%8B%20%D0%98%20%D0%A3%D0%BC%D0%BC%D1%8B.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-c9d4e4.pdf"
+  },
+  {
+    "id": "6543bf377d7bf2e4",
+    "title": "La conscience de la joumoua et de l&#39;oumma",
+    "date": "2026-04-03",
+    "year": 2026,
+    "language": "fr",
+    "filename": "la-conscience-de-la-joumoua-et-de-l-39-oumma.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/La%20conscience%20de%20la%20joumoua%20et%20de%20l'oumma.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/la-conscience-de-la-joumoua-et-de-l-39-oumma.pdf"
+  },
+  {
+    "id": "3f1ea538b13aab83",
+    "title": "Friday and the Consciousness of the Ummah",
+    "date": "2026-04-03",
+    "year": 2026,
+    "language": "en",
+    "filename": "friday-and-the-consciousness-of-the-ummah.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Friday%20and%20the%20Consciousness%20of%20the%20Ummah.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/friday-and-the-consciousness-of-the-ummah.pdf"
+  },
+  {
+    "id": "ee6e670b42c6190d",
+    "title": "Freitag Und Das Bewusstsein Für Die Umma",
+    "date": "2026-04-03",
+    "year": 2026,
+    "language": "de",
+    "filename": "freitag-und-das-bewusstsein-fur-die-umma.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Freitag%20Und%20Das%20Bewusstsein%20F%C3%BCr%20Die%20Umma.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/freitag-und-das-bewusstsein-fur-die-umma.pdf"
+  },
+  {
+    "id": "f46ef64e3c75ac77",
+    "title": "Cuma ve Ümmet Bilinci",
+    "date": "2026-04-03",
+    "year": 2026,
+    "language": "tr",
+    "filename": "cuma-ve-ummet-bilinci.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Cuma%20ve%20%C3%9Cmmet%20Bilinci.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/cuma-ve-ummet-bilinci.pdf"
+  },
+  {
     "id": "5076b9dffe53976d",
     "title": "Il Tawakkul&nbsp; (L’Affidamento Ad Allah)",
     "date": "2026-03-27",
