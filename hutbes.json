@@ -1,5 +1,35 @@
 [
   {
+    "id": "cf6983dcdd32c2c1",
+    "title": "الإِسْلَامُ",
+    "date": "2026-04-10",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-cf6983.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D8%A5%D9%90%D8%B3%D9%92%D9%84%D9%8E%D8%A7%D9%85%D9%8F.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-cf6983.pdf"
+  },
+  {
+    "id": "291935fb76979f67",
+    "title": "Islam&nbsp; - Français",
+    "date": "2026-04-10",
+    "year": 2026,
+    "language": "fr",
+    "filename": "islam-nbsp-francais.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Islam%20%20-%20Fran%C3%A7ais.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/islam-nbsp-francais.pdf"
+  },
+  {
+    "id": "c6e3e25014a0e1b9",
+    "title": "Islam - Deutsch",
+    "date": "2026-04-10",
+    "year": 2026,
+    "language": "de",
+    "filename": "islam-deutsch.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Islam%20-%20Deutsch.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/islam-deutsch.pdf"
+  },
+  {
     "id": "75754a01fe318a0d",
     "title": "El Islam",
     "date": "2026-04-10",
