@@ -1,5 +1,55 @@
 [
   {
+    "id": "75754a01fe318a0d",
+    "title": "El Islam",
+    "date": "2026-04-10",
+    "year": 2026,
+    "language": "es",
+    "filename": "el-islam.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/El%20Islam.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/el-islam.pdf"
+  },
+  {
+    "id": "f32e49028ef38062",
+    "title": "L&#39;Islam",
+    "date": "2026-04-10",
+    "year": 2026,
+    "language": "it",
+    "filename": "l-39-islam.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/L'Islam.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/l-39-islam.pdf"
+  },
+  {
+    "id": "655c307719650bd1",
+    "title": "Ислам",
+    "date": "2026-04-10",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-655c30.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D0%98%D1%81%D0%BB%D0%B0%D0%BC.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-655c30.pdf"
+  },
+  {
+    "id": "038b90dfab3ab312",
+    "title": "Islam",
+    "date": "2026-04-10",
+    "year": 2026,
+    "language": "en",
+    "filename": "islam.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Islam.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/islam.pdf"
+  },
+  {
+    "id": "1ab07510e39fde9b",
+    "title": "İslam",
+    "date": "2026-04-10",
+    "year": 2026,
+    "language": "tr",
+    "filename": "islam.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0slam.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/islam.pdf"
+  },
+  {
     "id": "c17010e638459a94",
     "title": "El viernes y la conciencia de la ummah",
     "date": "2026-04-03",
