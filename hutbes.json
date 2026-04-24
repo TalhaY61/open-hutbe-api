@@ -1,5 +1,85 @@
 [
   {
+    "id": "9580a6f1f52a46dd",
+    "title": "La Educación en la Compasión",
+    "date": "2026-04-24",
+    "year": 2026,
+    "language": "es",
+    "filename": "la-educacion-en-la-compasion.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/La%20Educaci%C3%B3n%20en%20la%20Compasi%C3%B3n.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/la-educacion-en-la-compasion.pdf"
+  },
+  {
+    "id": "43387dc640a9ab82",
+    "title": "L&#39;Educazione Alla Misericordia",
+    "date": "2026-04-24",
+    "year": 2026,
+    "language": "it",
+    "filename": "l-39-educazione-alla-misericordia.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/L'Educazione%20Alla%20Misericordia.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/l-39-educazione-alla-misericordia.pdf"
+  },
+  {
+    "id": "c33add400a000991",
+    "title": "تَعْلِيْمُ الرَّحْمَةِ",
+    "date": "2026-04-24",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-c33add.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%AA%D9%8E%D8%B9%D9%92%D9%84%D9%90%D9%8A%D9%92%D9%85%D9%8F%20%D8%A7%D9%84%D8%B1%D9%91%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%90.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-c33add.pdf"
+  },
+  {
+    "id": "940e87490cd005a3",
+    "title": "Воспитание Милосердия",
+    "date": "2026-04-24",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-940e87.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D0%92%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9C%D0%B8%D0%BB%D0%BE%D1%81%D0%B5%D1%80%D0%B4%D0%B8%D1%8F.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-940e87.pdf"
+  },
+  {
+    "id": "46893fc23bb70d0e",
+    "title": "L’éducation à la miséricorde",
+    "date": "2026-04-24",
+    "year": 2026,
+    "language": "fr",
+    "filename": "leducation-a-la-misericorde.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/L%E2%80%99%C3%A9ducation%20%C3%A0%20la%20mis%C3%A9ricorde.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/leducation-a-la-misericorde.pdf"
+  },
+  {
+    "id": "ecaf5505bb14796a",
+    "title": "Education in Compassion",
+    "date": "2026-04-24",
+    "year": 2026,
+    "language": "en",
+    "filename": "education-in-compassion.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Education%20in%20Compassion.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/education-in-compassion.pdf"
+  },
+  {
+    "id": "0d33a8818e5cf555",
+    "title": "Erziehung zu Mitgefühl",
+    "date": "2026-04-24",
+    "year": 2026,
+    "language": "de",
+    "filename": "erziehung-zu-mitgefuhl.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Erziehung%20zu%20Mitgef%C3%BChl.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/erziehung-zu-mitgefuhl.pdf"
+  },
+  {
+    "id": "38e4e532a8f57fb4",
+    "title": "Merhamet Eğitimi",
+    "date": "2026-04-24",
+    "year": 2026,
+    "language": "tr",
+    "filename": "merhamet-egitimi.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Merhamet%20E%C4%9Fitimi.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/merhamet-egitimi.pdf"
+  },
+  {
     "id": "250f5d8a307bed59",
     "title": "Serrons nos rangs, prenons conscience de nos responsabilités",
     "date": "2026-04-17",
