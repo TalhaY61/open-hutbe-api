@@ -1,5 +1,25 @@
 [
   {
+    "id": "4497cc8c30300eb7",
+    "title": "Пот, Пролитый В Труде, Священен",
+    "date": "2026-05-01",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-4497cc.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D0%9F%D0%BE%D1%82,%20%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D1%82%D1%8B%D0%B9%20%D0%92%20%D0%A2%D1%80%D1%83%D0%B4%D0%B5,%20%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%B5%D0%BD.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-4497cc.pdf"
+  },
+  {
+    "id": "155e21f9be89ecf2",
+    "title": "Alın Teri Mukaddestir",
+    "date": "2026-05-01",
+    "year": 2026,
+    "language": "tr",
+    "filename": "alin-teri-mukaddestir.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Al%C4%B1n%20Teri%20Mukaddestir.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/alin-teri-mukaddestir.pdf"
+  },
+  {
     "id": "d5c4d8dbcaf65f4f",
     "title": "El Trabajo duro una labor sagrada-Es",
     "date": "2026-05-01",
