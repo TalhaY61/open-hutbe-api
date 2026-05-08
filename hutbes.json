@@ -1,5 +1,75 @@
 [
   {
+    "id": "77f10f6321599005",
+    "title": "Los Actos De Culto Nos Acercan A Nuestro Señor",
+    "date": "2026-05-08",
+    "year": 2026,
+    "language": "es",
+    "filename": "los-actos-de-culto-nos-acercan-a-nuestro-senor.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Los%20Actos%20De%20Culto%20Nos%20Acercan%20A%20Nuestro%20Se%C3%B1or.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/los-actos-de-culto-nos-acercan-a-nuestro-senor.pdf"
+  },
+  {
+    "id": "71660df07958749f",
+    "title": "Gli Atti Di Adorazione Ci Avvicinano Al Nostro Signore",
+    "date": "2026-05-08",
+    "year": 2026,
+    "language": "it",
+    "filename": "gli-atti-di-adorazione-ci-avvicinano-al-nostro-signore.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Gli%20Atti%20Di%20Adorazione%20Ci%20Avvicinano%20Al%20Nostro%20Signore.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/gli-atti-di-adorazione-ci-avvicinano-al-nostro-signore.pdf"
+  },
+  {
+    "id": "94f67959c79f63e4",
+    "title": "العِبَادَاتُ تُقَرِّبُنا إِلى رَبِّنا",
+    "date": "2026-05-08",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-94f679.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/العِبَادَاتُ تُقَرِّبُنا إِلى رَبِّنا.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-94f679.pdf"
+  },
+  {
+    "id": "98af1f48975f0792",
+    "title": "Les Adorations Nous Rapprochent De Notre Seigneur",
+    "date": "2026-05-08",
+    "year": 2026,
+    "language": "fr",
+    "filename": "les-adorations-nous-rapprochent-de-notre-seigneur.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Les%20Adorations%20Nous%20Rapprochent%20De%20Notre%20Seigneur.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/les-adorations-nous-rapprochent-de-notre-seigneur.pdf"
+  },
+  {
+    "id": "838a422690780bb2",
+    "title": "Acts of Worship Brings Us Closer to Our Lord",
+    "date": "2026-05-08",
+    "year": 2026,
+    "language": "en",
+    "filename": "acts-of-worship-brings-us-closer-to-our-lord.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Acts%20of%20Worship%20Brings%20Us%20Closer%20to%20Our%20Lord.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/acts-of-worship-brings-us-closer-to-our-lord.pdf"
+  },
+  {
+    "id": "cf1501ca5ee77107",
+    "title": "Gottesdienste bringen uns näher zu unserem Herrn",
+    "date": "2026-05-08",
+    "year": 2026,
+    "language": "de",
+    "filename": "gottesdienste-bringen-uns-naher-zu-unserem-herrn.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Gottesdienste%20bringen%20uns%20n%C3%A4her%20zu%20unserem%20Herrn.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/gottesdienste-bringen-uns-naher-zu-unserem-herrn.pdf"
+  },
+  {
+    "id": "891ab7a311ea2771",
+    "title": "İbadetler, Bizi Rabbimize Yakınlaştırır",
+    "date": "2026-05-08",
+    "year": 2026,
+    "language": "tr",
+    "filename": "ibadetler-bizi-rabbimize-yakinlastirir.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0badetler,%20Bizi%20Rabbimize%20Yak%C4%B1nla%C5%9Ft%C4%B1r%C4%B1r.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/ibadetler-bizi-rabbimize-yakinlastirir.pdf"
+  },
+  {
     "id": "4497cc8c30300eb7",
     "title": "Пот, Пролитый В Труде, Священен",
     "date": "2026-05-01",
