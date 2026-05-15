@@ -1,5 +1,95 @@
 [
   {
+    "id": "f5cf03d7501ce85b",
+    "title": "Nuestras Responsabilidades sociales",
+    "date": "2026-05-15",
+    "year": 2026,
+    "language": "es",
+    "filename": "nuestras-responsabilidades-sociales.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Nuestras%20Responsabilidades%20sociales.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/nuestras-responsabilidades-sociales.pdf"
+  },
+  {
+    "id": "1014bd59435a1d61",
+    "title": "Le Nostre Responsabilità Sociali",
+    "date": "2026-05-15",
+    "year": 2026,
+    "language": "it",
+    "filename": "le-nostre-responsabilita-sociali.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Le%20Nostre%20Responsabilit%C3%A0%20Sociali.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/le-nostre-responsabilita-sociali.pdf"
+  },
+  {
+    "id": "e92b9654de630c15",
+    "title": "المَسْؤُولِيَّاتُ المُجْتَمَعِيَّةُ",
+    "date": "2026-05-15",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-e92b96.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/المَسْؤُولِيَّاتُ المُجْتَمَعِيَّةُ.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-e92b96.pdf"
+  },
+  {
+    "id": "7a64121503c8f9f6",
+    "title": "Поклонение Приближает Нас К Нашему Господу",
+    "date": "2026-05-08",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-7a6412.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Поклонение Приближает Нас К Нашему Господу.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-7a6412.pdf"
+  },
+  {
+    "id": "991294bf975aa3c2",
+    "title": "Наши Общественные Обязанности",
+    "date": "2026-05-15",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-991294.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D0%9D%D0%B0%D1%88%D0%B8%20%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%9E%D0%B1%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-991294.pdf"
+  },
+  {
+    "id": "e4795a9b87fa9e92",
+    "title": "Nos responsabilités sociales",
+    "date": "2026-05-15",
+    "year": 2026,
+    "language": "fr",
+    "filename": "nos-responsabilites-sociales.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Nos%20responsabilit%C3%A9s%20sociales.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/nos-responsabilites-sociales.pdf"
+  },
+  {
+    "id": "a4a884016b5b1fbb",
+    "title": "Our Social Responsibilities",
+    "date": "2026-05-15",
+    "year": 2026,
+    "language": "en",
+    "filename": "our-social-responsibilities.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Our%20Social%20Responsibilities.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/our-social-responsibilities.pdf"
+  },
+  {
+    "id": "e12b79383f2445ea",
+    "title": "Unsere Gesellschaftlıchen Verantwortungen",
+    "date": "2026-05-15",
+    "year": 2026,
+    "language": "de",
+    "filename": "unsere-gesellschaftlichen-verantwortungen.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Unsere%20Gesellschaftl%C4%B1chen%20Verantwortungen.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/unsere-gesellschaftlichen-verantwortungen.pdf"
+  },
+  {
+    "id": "d57de270ac907b12",
+    "title": "Toplumsal Sorumluluklarımız",
+    "date": "2026-05-15",
+    "year": 2026,
+    "language": "tr",
+    "filename": "toplumsal-sorumluluklarimiz.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Toplumsal%20Sorumluluklar%C4%B1m%C4%B1z.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/toplumsal-sorumluluklarimiz.pdf"
+  },
+  {
     "id": "77f10f6321599005",
     "title": "Los Actos De Culto Nos Acercan A Nuestro Señor",
     "date": "2026-05-08",
