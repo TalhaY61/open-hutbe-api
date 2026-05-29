@@ -1,5 +1,185 @@
 [
   {
+    "id": "553666cba32ee5b5",
+    "title": "Eid al-Adja",
+    "date": "2026-05-29",
+    "year": 2026,
+    "language": "es",
+    "filename": "eid-al-adja.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Eid%20al-Adja.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/eid-al-adja.pdf"
+  },
+  {
+    "id": "91d922e171757e5d",
+    "title": "El espíritu de conquista y la civilización de las fundaciones",
+    "date": "2026-05-29",
+    "year": 2026,
+    "language": "es",
+    "filename": "el-espiritu-de-conquista-y-la-civilizacion-de-las-fundaciones.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/El%20esp%C3%ADritu%20de%20conquista%20y%20la%20civilizaci%C3%B3n%20de%20las%20fundaciones.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/el-espiritu-de-conquista-y-la-civilizacion-de-las-fundaciones.pdf"
+  },
+  {
+    "id": "756dad4ebe531ee1",
+    "title": "Festa Del Sacrificio",
+    "date": "2026-05-29",
+    "year": 2026,
+    "language": "it",
+    "filename": "festa-del-sacrificio.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Festa%20Del%20Sacrificio.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/festa-del-sacrificio.pdf"
+  },
+  {
+    "id": "624a90e082fc0ba9",
+    "title": "Lo Spirito Della Conquista E La Civiltà Delle Fondazioni Di Beneficienza",
+    "date": "2026-05-29",
+    "year": 2026,
+    "language": "it",
+    "filename": "lo-spirito-della-conquista-e-la-civilta-delle-fondazioni-di-beneficienza.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Lo%20Spirito%20Della%20Conquista%20E%20La%20Civilt%C3%A0%20Delle%20Fondazioni%20Di%20Beneficienza.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/lo-spirito-della-conquista-e-la-civilta-delle-fondazioni-di-beneficienza.pdf"
+  },
+  {
+    "id": "21925403a5fea305",
+    "title": "عِيدُ الأَضْحَى",
+    "date": "2026-05-27",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-219254.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%B9%D9%90%D9%8A%D8%AF%D9%8F%20%D8%A7%D9%84%D8%A3%D9%8E%D8%B6%D9%92%D8%AD%D9%8E%D9%89.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-219254.pdf"
+  },
+  {
+    "id": "1acda5a955aa17a4",
+    "title": "رُوحُ الفَتْحِ وَحَضَارَةُ الأَوْقَافِ",
+    "date": "2026-05-29",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-1acda5.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/رُوحُ الفَتْحِ وَحَضَارَةُ الأَوْقَافِ.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-1acda5.pdf"
+  },
+  {
+    "id": "e629a8c04cd92c1b",
+    "title": "Праздник Курбан",
+    "date": "2026-05-27",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-e629a8.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD-.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-e629a8.pdf"
+  },
+  {
+    "id": "950739f3e5d50c5f",
+    "title": "Дух Завоевания И Культура Благотворительности",
+    "date": "2026-05-29",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-950739.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Дух Завоевания И Культура Благотворительности.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-950739.pdf"
+  },
+  {
+    "id": "1be1d7b6d437dc0b",
+    "title": "L’aïd Al-Adha",
+    "date": "2026-05-29",
+    "year": 2026,
+    "language": "fr",
+    "filename": "laid-al-adha.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/L%E2%80%99a%C3%AFd%20Al-Adha.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/laid-al-adha.pdf"
+  },
+  {
+    "id": "aa339abb4c18840c",
+    "title": "L’esprit De La Conquête Et La Civilisation Des Waqfs",
+    "date": "2026-05-29",
+    "year": 2026,
+    "language": "fr",
+    "filename": "lesprit-de-la-conquete-et-la-civilisation-des-waqfs.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/L%E2%80%99esprit%20De%20La%20Conqu%C3%AAte%20Et%20La%20Civilisation%20Des%20Waqfs.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/lesprit-de-la-conquete-et-la-civilisation-des-waqfs.pdf"
+  },
+  {
+    "id": "1de630c58abb0873",
+    "title": "Eid al-Adha",
+    "date": "2026-05-27",
+    "year": 2026,
+    "language": "en",
+    "filename": "eid-al-adha.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Eid%20al-Adha-.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/eid-al-adha.pdf"
+  },
+  {
+    "id": "5abf6765b578556a",
+    "title": "The Spirit of Conquest and the Civilization of Waqf",
+    "date": "2026-05-29",
+    "year": 2026,
+    "language": "en",
+    "filename": "the-spirit-of-conquest-and-the-civilization-of-waqf.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/The%20Spirit%20of%20Conquest%20and%20the%20Civilization%20of%20Waqf.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/the-spirit-of-conquest-and-the-civilization-of-waqf.pdf"
+  },
+  {
+    "id": "a021c5682d6a2db1",
+    "title": "Ethik der Rede und soziale Medien",
+    "date": "2026-05-22",
+    "year": 2026,
+    "language": "de",
+    "filename": "ethik-der-rede-und-soziale-medien.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ethik%20der%20Rede%20und%20soziale%20Medien.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/ethik-der-rede-und-soziale-medien.pdf"
+  },
+  {
+    "id": "78a2fb908d9c9ff5",
+    "title": "Eid Al-Adha",
+    "date": "2026-05-27",
+    "year": 2026,
+    "language": "de",
+    "filename": "eid-al-adha.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/,Eid%20Al-Adha.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/eid-al-adha.pdf"
+  },
+  {
+    "id": "e00632716f305261",
+    "title": "Der Geist Der Eroberung Und Die Zivilisation Der Fundamente",
+    "date": "2026-05-29",
+    "year": 2026,
+    "language": "de",
+    "filename": "der-geist-der-eroberung-und-die-zivilisation-der-fundamente.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Der%20Geist%20Der%20Eroberung%20Und%20Die%20Zivilisation%20Der%20Fundamente.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/der-geist-der-eroberung-und-die-zivilisation-der-fundamente.pdf"
+  },
+  {
+    "id": "b0be6cd5fa0fc50e",
+    "title": "Söz Ahlakı ve Sosyal Medya",
+    "date": "2026-05-22",
+    "year": 2026,
+    "language": "tr",
+    "filename": "soz-ahlaki-ve-sosyal-medya.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/S%C3%B6z%20Ahlak%C4%B1%20ve%20Sosyal%20Medya.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/soz-ahlaki-ve-sosyal-medya.pdf"
+  },
+  {
+    "id": "9d91892445ea92cb",
+    "title": "Kurban Bayramı",
+    "date": "2026-05-27",
+    "year": 2026,
+    "language": "tr",
+    "filename": "kurban-bayrami.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Kurban%20Bayram%C4%B1-.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/kurban-bayrami.pdf"
+  },
+  {
+    "id": "f48dc47bcc330bcf",
+    "title": "Fetih Ruhu ve Vakıf Medeniyeti",
+    "date": "2026-05-29",
+    "year": 2026,
+    "language": "tr",
+    "filename": "fetih-ruhu-ve-vakif-medeniyeti.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Fetih%20Ruhu%20ve%20Vak%C4%B1f%20Medeniyeti.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/fetih-ruhu-ve-vakif-medeniyeti.pdf"
+  },
+  {
     "id": "1a30eb33489f21ce",
     "title": "La ética al hablar y las redes sociales",
     "date": "2026-05-22",
