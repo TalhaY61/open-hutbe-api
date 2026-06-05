@@ -1,5 +1,65 @@
 [
   {
+    "id": "e97ca408387fbd43",
+    "title": "La Sensibilità",
+    "date": "2026-06-05",
+    "year": 2026,
+    "language": "it",
+    "filename": "la-sensibilita.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/La%20Sensibilit%C3%A0.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/it/2026/la-sensibilita.pdf"
+  },
+  {
+    "id": "51fb6827967d7ab1",
+    "title": "اَلْحَسَّاسِيَّةُ",
+    "date": "2026-06-05",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-51fb68.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%8E%D9%84%D9%92%D8%AD%D9%8E%D8%B3%D9%8E%D9%91%D8%A7%D8%B3%D9%90%D9%8A%D9%91%D9%8E%D8%A9%D9%8F.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-51fb68.pdf"
+  },
+  {
+    "id": "a035ed143bc54141",
+    "title": "Чуткость",
+    "date": "2026-06-05",
+    "year": 2026,
+    "language": "ru",
+    "filename": "hutbe-a035ed.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D0%A7%D1%83%D1%82%D0%BA%D0%BE%D1%81%D1%82%D1%8C.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ru/2026/hutbe-a035ed.pdf"
+  },
+  {
+    "id": "bba8dd82f96dae7e",
+    "title": "La Sensibilité ",
+    "date": "2026-06-05",
+    "year": 2026,
+    "language": "fr",
+    "filename": "la-sensibilite.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/La%20Sensibilit%C3%A9%20.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/la-sensibilite.pdf"
+  },
+  {
+    "id": "9d4001d11dc877b8",
+    "title": "Sensibility",
+    "date": "2026-06-05",
+    "year": 2026,
+    "language": "en",
+    "filename": "sensibility.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sensibility.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/sensibility.pdf"
+  },
+  {
+    "id": "68dc0b87d60ca216",
+    "title": "Verantwortungsbewusstsein",
+    "date": "2026-06-05",
+    "year": 2026,
+    "language": "de",
+    "filename": "verantwortungsbewusstsein.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Verantwortungsbewusstsein.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/de/2026/verantwortungsbewusstsein.pdf"
+  },
+  {
     "id": "553666cba32ee5b5",
     "title": "Eid al-Adja",
     "date": "2026-05-29",
