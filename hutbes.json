@@ -1,5 +1,65 @@
 [
   {
+    "id": "8490e9fe6d277c1a",
+    "title": "La Empatía",
+    "date": "2026-06-12",
+    "year": 2026,
+    "language": "es",
+    "filename": "la-empatia.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/La%20Empat%C3%ADa.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/es/2026/la-empatia.pdf"
+  },
+  {
+    "id": "75486841f7ea8055",
+    "title": "عِنْدَ دُخُولِ السَّنَةِ الْهِجْرِيَّةِ الْجَدِيدَةِ",
+    "date": "2026-06-12",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-754868.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/عِنْدَ دُخُولِ السَّنَةِ الْهِجْرِيَّةِ الْجَدِيدَةِ.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-754868.pdf"
+  },
+  {
+    "id": "ccafb6c7a3f42a91",
+    "title": "La zakat al-mal et la zakat al-fitr",
+    "date": "2026-06-12",
+    "year": 2026,
+    "language": "fr",
+    "filename": "la-zakat-al-mal-et-la-zakat-al-fitr.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/La%20zakat%20al-mal%20et%20la%20zakat%20al-fitr.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/fr/2026/la-zakat-al-mal-et-la-zakat-al-fitr.pdf"
+  },
+  {
+    "id": "f2fb9bf5dff37442",
+    "title": "As We Enter the New Hijri Year",
+    "date": "2026-06-12",
+    "year": 2026,
+    "language": "en",
+    "filename": "as-we-enter-the-new-hijri-year.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/As%20We%20Enter%20the%20New%20Hijri%20Year.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/as-we-enter-the-new-hijri-year.pdf"
+  },
+  {
+    "id": "ffaf689fd065e461",
+    "title": "Duyarlılık",
+    "date": "2026-06-05",
+    "year": 2026,
+    "language": "tr",
+    "filename": "duyarlilik.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Duyarl%C4%B1l%C4%B1k.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/duyarlilik.pdf"
+  },
+  {
+    "id": "0eb403588eae6bd7",
+    "title": "Hicri Yeni Yıla Girerken",
+    "date": "2026-06-12",
+    "year": 2026,
+    "language": "tr",
+    "filename": "hicri-yeni-yila-girerken.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hicri%20Yeni%20Y%C4%B1la%20Girerken.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/hicri-yeni-yila-girerken.pdf"
+  },
+  {
     "id": "e97ca408387fbd43",
     "title": "La Sensibilità",
     "date": "2026-06-05",
