@@ -1,5 +1,45 @@
 [
   {
+    "id": "286b6cfe94819071",
+    "title": "أَنْ تَكُونَ أُسْرَةً",
+    "date": "2026-06-26",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-286b6c.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A3%D9%8E%D9%86%D9%92%20%D8%AA%D9%8E%D9%83%D9%8F%D9%88%D9%86%D9%8E%20%D8%A3%D9%8F%D8%B3%D9%92%D8%B1%D9%8E%D8%A9%D9%8B.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-286b6c.pdf"
+  },
+  {
+    "id": "5f00535280deb99c",
+    "title": "Being a family",
+    "date": "2026-06-26",
+    "year": 2026,
+    "language": "en",
+    "filename": "being-a-family.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Being%20a%20family.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/being-a-family.pdf"
+  },
+  {
+    "id": "6574eb2570175457",
+    "title": "Birlikte Rahmet Vardır",
+    "date": "2026-06-19",
+    "year": 2026,
+    "language": "tr",
+    "filename": "birlikte-rahmet-vardir.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Birlikte%20Rahmet%20Vard%C4%B1r.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/birlikte-rahmet-vardir.pdf"
+  },
+  {
+    "id": "e9a82473ed791a32",
+    "title": "Aile Olmak",
+    "date": "2026-06-26",
+    "year": 2026,
+    "language": "tr",
+    "filename": "aile-olmak.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Aile%20Olmak.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/aile-olmak.pdf"
+  },
+  {
     "id": "09808c962bad1dc2",
     "title": "فِي الْجَمَاعَةُ رَّحْمَةٌ",
     "date": "2026-06-19",
