@@ -1,5 +1,25 @@
 [
   {
+    "id": "c12ed92960feb1fb",
+    "title": "Summer Qur&#39;an Courses",
+    "date": "2026-07-03",
+    "year": 2026,
+    "language": "en",
+    "filename": "summer-qur-39-an-courses.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Summer%20Qur'an%20Courses.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/summer-qur-39-an-courses.pdf"
+  },
+  {
+    "id": "7b5e21916d0264b6",
+    "title": "Yaz Kur&#39;an Kursları",
+    "date": "2026-07-03",
+    "year": 2026,
+    "language": "tr",
+    "filename": "yaz-kur-39-an-kurslari.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Yaz%20Kur'an%20Kurslar%C4%B1.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/yaz-kur-39-an-kurslari.pdf"
+  },
+  {
     "id": "286b6cfe94819071",
     "title": "أَنْ تَكُونَ أُسْرَةً",
     "date": "2026-06-26",
