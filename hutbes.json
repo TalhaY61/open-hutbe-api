@@ -1,5 +1,35 @@
 [
   {
+    "id": "af18c77c19abb926",
+    "title": "اِسْتِغْلَالُ الدِّينِ",
+    "date": "2026-07-10",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-af18c7.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%90%D8%B3%D9%92%D8%AA%D9%90%D8%BA%D9%92%D9%84%D9%8E%D8%A7%D9%84%D9%8F%20%D8%A7%D9%84%D8%AF%D9%91%D9%90%D9%8A%D9%86%D9%90-.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-af18c7.pdf"
+  },
+  {
+    "id": "f598323b8fec7b5e",
+    "title": "Din İstismarı",
+    "date": "2026-07-10",
+    "year": 2026,
+    "language": "tr",
+    "filename": "din-istismari-f59832.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Din%20%C4%B0stismar%C4%B1--.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/din-istismari-f59832.pdf"
+  },
+  {
+    "id": "d580e735b8466497",
+    "title": "Kur'an-ı Kerim",
+    "date": "2026-07-17",
+    "year": 2026,
+    "language": "tr",
+    "filename": "kur-an-i-kerim.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Kur'an-%C4%B1%20Kerim.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/kur-an-i-kerim.pdf"
+  },
+  {
     "id": "04bf8f01a14e8142",
     "title": "Exploitation of Religion",
     "date": "2026-07-10",
