@@ -1,5 +1,35 @@
 [
   {
+    "id": "f03ea1f815d8b077",
+    "title": "The Holy Qur'an",
+    "date": "2026-07-17",
+    "year": 2026,
+    "language": "en",
+    "filename": "the-holy-qur-an.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/The%20Holy%20Qur'an.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/the-holy-qur-an.pdf"
+  },
+  {
+    "id": "0a10ee9a562e5126",
+    "title": "The Civilization of Islam",
+    "date": "2026-07-24",
+    "year": 2026,
+    "language": "en",
+    "filename": "the-civilization-of-islam.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/The%20Civilization%20of%20Islam.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/the-civilization-of-islam.pdf"
+  },
+  {
+    "id": "334855abfd3759cc",
+    "title": "İslam Medeniyeti",
+    "date": "2026-07-24",
+    "year": 2026,
+    "language": "tr",
+    "filename": "islam-medeniyeti.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0slam%20Medeniyeti.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/islam-medeniyeti.pdf"
+  },
+  {
     "id": "c4f79a8f1a90d3de",
     "title": "القُرْآنُ الْكَرِيمُ",
     "date": "2026-07-17",
