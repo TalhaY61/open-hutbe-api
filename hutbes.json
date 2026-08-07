@@ -1,5 +1,25 @@
 [
   {
+    "id": "03490637037e16ee",
+    "title": "Brotherhood",
+    "date": "2026-08-07",
+    "year": 2026,
+    "language": "en",
+    "filename": "brotherhood.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Brotherhood.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/brotherhood.pdf"
+  },
+  {
+    "id": "51d3255dc8264a89",
+    "title": "Kardeşlik",
+    "date": "2026-08-07",
+    "year": 2026,
+    "language": "tr",
+    "filename": "kardeslik.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Karde%C5%9Flik.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/kardeslik.pdf"
+  },
+  {
     "id": "2018a377a7b4e4ff",
     "title": "حَسَاسِيَّةُ الْحَلَالِ وَالْحَرَامِ",
     "date": "2026-07-31",
