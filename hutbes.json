@@ -1,5 +1,35 @@
 [
   {
+    "id": "2e9664995cd330a1",
+    "title": "مَوْلِدُ النَّبِيِّ ﷺ",
+    "date": "2026-08-21",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-2e9664.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/,%D9%85%D9%8E%D9%88%D9%92%D9%84%D9%90%D8%AF%D9%8F%20%D8%A7%D9%84%D9%86%D9%91%D9%8E%D8%A8%D9%90%D9%8A%D9%91%D9%90%20%EF%B7%BA.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-2e9664.pdf"
+  },
+  {
+    "id": "e2123534b6ca21d7",
+    "title": "Mawlid al-Nabi - Eng",
+    "date": "2026-08-21",
+    "year": 2026,
+    "language": "en",
+    "filename": "mawlid-al-nabi-eng.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Mawlid%20al-Nabi%20-%20Eng.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/mawlid-al-nabi-eng.pdf"
+  },
+  {
+    "id": "81833f6fb0bd9d88",
+    "title": "Mevlid-i Nebi",
+    "date": "2026-08-21",
+    "year": 2026,
+    "language": "tr",
+    "filename": "mevlid-i-nebi.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Mevlid-i%20Nebi,.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/mevlid-i-nebi.pdf"
+  },
+  {
     "id": "48047601380d3cac",
     "title": "كُلُّ يَتِيمٍ أَمَانَةٌ",
     "date": "2026-08-14",
