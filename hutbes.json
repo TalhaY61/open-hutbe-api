@@ -1,5 +1,25 @@
 [
   {
+    "id": "677443aca7137fe1",
+    "title": "حُبُّ الْوَطَنِ",
+    "date": "2026-08-28",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-677443.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%AD%D9%8F%D8%A8%D9%91%D9%8F%20%D8%A7%D9%84%D9%92%D9%88%D9%8E%D8%B7%D9%8E%D9%86%D9%90.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-677443.pdf"
+  },
+  {
+    "id": "23f5d862b465fe13",
+    "title": "Love of the Homeland",
+    "date": "2026-08-28",
+    "year": 2026,
+    "language": "en",
+    "filename": "love-of-the-homeland.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Love%20of%20the%20Homeland.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/love-of-the-homeland.pdf"
+  },
+  {
     "id": "ced6d3172412ed14",
     "title": "Vatan Sevgisi",
     "date": "2026-08-28",
