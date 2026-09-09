@@ -54,6 +54,7 @@ ROOT = Path(__file__).resolve().parents[1]
 HUTBES_PATH = ROOT / "hutbes.json"
 PRAYERS_PATH = ROOT / "prayers.json"
 PDF_ROOT = ROOT / "pdfs"
+DOCUMENT_ROOT = ROOT / "docs"
 
 DATE_RE = re.compile(r"\b(\d{1,2}\.\d{1,2}\.\d{4})\b")
 YEAR_RE = re.compile(r"(20\d{2})")
@@ -100,6 +101,35 @@ def download_file(session: requests.Session, url: str, destination: Path) -> boo
         print(f"Download error {url}: {e}")
         return False
 
+def archive_document(
+    session: requests.Session,
+    source_doc_url: str,
+    language: str,
+    year: int,
+    base_slug: str,
+    hutbe_id: str,
+) -> Dict:
+    """Archive Diyanet's original Word file and return its API fields."""
+    extension = Path(unquote(urlsplit(source_doc_url).path)).suffix.lower()
+    if extension not in {".doc", ".docx"}:
+        return {"source_doc_url": source_doc_url}
+
+    filename = f"{base_slug}{extension}"
+    local_path = DOCUMENT_ROOT / language / str(year) / filename
+    if local_path.exists():
+        filename = f"{base_slug}-{hutbe_id[:6]}{extension}"
+        local_path = DOCUMENT_ROOT / language / str(year) / filename
+
+    if local_path.exists() or download_file(session, source_doc_url, local_path):
+        public_url = f"{GITHUB_PAGES_BASE}/docs/{language}/{year}/{quote(filename)}"
+        return {
+            "source_doc_url": source_doc_url,
+            "doc_filename": filename,
+            "doc_url": public_url,
+        }
+
+    return {"source_doc_url": source_doc_url}
+
 def process_prayers(session: requests.Session) -> None:
     print("\n--- Processing Prayers ---")
     prayers_list = []
@@ -144,10 +174,13 @@ def extract_pdf_candidates(page_html: str, page_url: str) -> List[Dict]:
     # 1. Method: Scan table rows
     for row in soup.find_all("tr"):
         pdf_anchor = None
+        word_anchor = None
         for a in row.find_all("a", href=True):
-            if a["href"].strip().lower().endswith(".pdf"):
+            href = a["href"].strip().lower()
+            if href.endswith(".pdf"):
                 pdf_anchor = a
-                break
+            elif href.endswith((".doc", ".docx")):
+                word_anchor = a
         if not pdf_anchor:
             continue
 
@@ -162,6 +195,7 @@ def extract_pdf_candidates(page_html: str, page_url: str) -> List[Dict]:
 
         candidates.append({
             "source_pdf_url": source_pdf_url,
+            "source_doc_url": urljoin(BASE_SITE, word_anchor["href"]) if word_anchor else None,
             "title": title,
             "date": parsed_date,
             "found_on_page": page_url,
@@ -176,6 +210,7 @@ def extract_pdf_candidates(page_html: str, page_url: str) -> List[Dict]:
                 title = a.get_text(" ", strip=True) or Path(unquote(urlsplit(source_pdf_url).path)).stem
                 candidates.append({
                     "source_pdf_url": source_pdf_url,
+                    "source_doc_url": None,
                     "title": title,
                     "date": None,
                     "found_on_page": page_url,
@@ -193,6 +228,7 @@ def extract_pdf_candidates(page_html: str, page_url: str) -> List[Dict]:
                         continue
 
                     source_pdf_url = urljoin(BASE_SITE, pdf_path)
+                    word_path = row.get("Word")
                     title = row.get("Title") or row.get("PDF.desc") or Path(unquote(urlsplit(source_pdf_url).path)).stem
 
                     parsed_date = None
@@ -205,6 +241,7 @@ def extract_pdf_candidates(page_html: str, page_url: str) -> List[Dict]:
 
                     candidates.append({
                         "source_pdf_url": source_pdf_url,
+                        "source_doc_url": urljoin(BASE_SITE, word_path) if word_path else None,
                         "title": title,
                         "date": parsed_date,
                         "found_on_page": page_url,
@@ -236,9 +273,13 @@ def main() -> None:
     
     # Process Hutbes
     hutbes = load_json(HUTBES_PATH)
-    existing_ids = {item.get("id") for item in hutbes}
-    existing_urls = {item.get("source_pdf_url") for item in hutbes}
+    existing_by_source_url = {
+        item.get("source_pdf_url"): item
+        for item in hutbes
+        if item.get("source_pdf_url")
+    }
     new_entries: List[Dict] = []
+    updated_entries = 0
     
     print(f"\nStarting Hutbe Scan: {len(hutbes)} existing items found.")
 
@@ -267,12 +308,30 @@ def main() -> None:
                 for candidate in candidates:
                     source_url = candidate["source_pdf_url"]
                     h_id = hutbe_id_from_url(source_url)
-                    
-                    if h_id in existing_ids or source_url in existing_urls:
-                        continue
 
                     year = determine_year(candidate)
                     base_slug = slugify_filename(candidate["title"])
+                    existing_entry = existing_by_source_url.get(source_url)
+                    source_doc_url = candidate.get("source_doc_url")
+
+                    if existing_entry:
+                        if source_doc_url and not existing_entry.get("doc_url"):
+                            doc_fields = archive_document(
+                                session,
+                                source_doc_url,
+                                lang,
+                                existing_entry.get("year") or year,
+                                base_slug,
+                                h_id,
+                            )
+                            if any(
+                                existing_entry.get(key) != value
+                                for key, value in doc_fields.items()
+                            ):
+                                existing_entry.update(doc_fields)
+                                updated_entries += 1
+                        continue
+
                     filename = f"{base_slug}.pdf"
 
                     local_path = PDF_ROOT / lang / str(year) / filename
@@ -298,19 +357,32 @@ def main() -> None:
                             "source_pdf_url": source_url,
                             "pdf_url": public_url,
                         }
+                        if source_doc_url:
+                            new_entry.update(
+                                archive_document(
+                                    session,
+                                    source_doc_url,
+                                    lang,
+                                    year,
+                                    base_slug,
+                                    h_id,
+                                )
+                            )
                         
                         new_entries.append(new_entry)
                         hutbes.insert(0, new_entry)
-                        existing_ids.add(h_id)
-                        existing_urls.add(source_url)
+                        existing_by_source_url[source_url] = new_entry
             
             except Exception as e:
                 print(f"   Error: {e}")
                 continue
 
-    if new_entries:
+    if new_entries or updated_entries:
         save_json(hutbes, HUTBES_PATH)
-        print(f"Complete. Added {len(new_entries)} new hutbes.")
+        print(
+            f"Complete. Added {len(new_entries)} new hutbes and "
+            f"updated {updated_entries} existing hutbes."
+        )
     else:
         print("No new hutbes found.")
 
