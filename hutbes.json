@@ -1,5 +1,25 @@
 [
   {
+    "id": "24a936da34994499",
+    "title": "Ethics of Akhism",
+    "date": "2026-09-18",
+    "year": 2026,
+    "language": "en",
+    "filename": "ethics-of-akhism.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ethics%20of%20Akhism.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/ethics-of-akhism.pdf"
+  },
+  {
+    "id": "62fbf04bffd4a7a1",
+    "title": "Ahîlik Ahlakı",
+    "date": "2026-09-18",
+    "year": 2026,
+    "language": "tr",
+    "filename": "ahilik-ahlaki.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ah%C3%AElik%20Ahlak%C4%B1.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/ahilik-ahlaki.pdf"
+  },
+  {
     "id": "ed72c039e83da8ef",
     "title": "التَّرْبيَةُ وَالتَّعْلِيمُ",
     "date": "2026-09-11",
