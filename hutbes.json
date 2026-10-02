@@ -1,5 +1,25 @@
 [
   {
+    "id": "2918aec07916a43f",
+    "title": "The Mosque and Social Life",
+    "date": "2026-10-02",
+    "year": 2026,
+    "language": "en",
+    "filename": "the-mosque-and-social-life.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/The%20Mosque%20and%20Social%20Life.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/the-mosque-and-social-life.pdf"
+  },
+  {
+    "id": "0fd3d2f580e1f46c",
+    "title": "Cami ve Sosyal Hayat",
+    "date": "2026-10-02",
+    "year": 2026,
+    "language": "tr",
+    "filename": "cami-ve-sosyal-hayat.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Cami%20ve%20Sosyal%20Hayat.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/cami-ve-sosyal-hayat.pdf"
+  },
+  {
     "id": "4191c0222acaf95c",
     "title": "مَسْؤُولِيَّتُنَا فِي التَّبْلِيغِ",
     "date": "2026-09-25",
