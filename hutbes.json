@@ -1,5 +1,25 @@
 [
   {
+    "id": "801c94c64fc63545",
+    "title": "Gaza, A Test For Humanity",
+    "date": "2026-10-09",
+    "year": 2026,
+    "language": "en",
+    "filename": "gaza-a-test-for-humanity.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Gaza,%20A%20Test%20For%20Humanity.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/gaza-a-test-for-humanity.pdf"
+  },
+  {
+    "id": "59b2e285ce14f0c5",
+    "title": "İnsanlığın Sınavı Gazze",
+    "date": "2026-10-09",
+    "year": 2026,
+    "language": "tr",
+    "filename": "insanligin-sinavi-gazze.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0nsanl%C4%B1%C4%9F%C4%B1n%20S%C4%B1nav%C4%B1%20Gazze.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/insanligin-sinavi-gazze.pdf"
+  },
+  {
     "id": "88d9723a6befd280",
     "title": "الْمَساجِدُ وَالْحَيَاةُ الِاجْتِمَاعِيَّةُ",
     "date": "2026-10-02",
