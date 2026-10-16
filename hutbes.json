@@ -1,5 +1,35 @@
 [
   {
+    "id": "92029b62d514f2d5",
+    "title": "الْإِنْسَانُ!",
+    "date": "2026-10-16",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-92029b.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%86%D9%92%D8%B3%D9%8E%D8%A7%D9%86%D9%8F!.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-92029b.pdf"
+  },
+  {
+    "id": "ab286296121c6d9c",
+    "title": "O Human Being!",
+    "date": "2026-10-16",
+    "year": 2026,
+    "language": "en",
+    "filename": "o-human-being.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/O%20Human%20Being!.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/o-human-being.pdf"
+  },
+  {
+    "id": "eeea957cb8cc6e90",
+    "title": "İnsan!",
+    "date": "2026-10-16",
+    "year": 2026,
+    "language": "tr",
+    "filename": "insan.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0nsan!.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/insan.pdf"
+  },
+  {
     "id": "33ef8561086b6660",
     "title": "غَزَّةُ, اِمْتِحَانُ الْبَشَرِيَّةِ",
     "date": "2026-10-09",
