@@ -1,5 +1,25 @@
 [
   {
+    "id": "f10e64ca2c2f618c",
+    "title": "Family",
+    "date": "2026-10-23",
+    "year": 2026,
+    "language": "en",
+    "filename": "family.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Family.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/family.pdf"
+  },
+  {
+    "id": "888ca87543352097",
+    "title": "Aile",
+    "date": "2026-10-23",
+    "year": 2026,
+    "language": "tr",
+    "filename": "aile.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Aile.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/aile.pdf"
+  },
+  {
     "id": "92029b62d514f2d5",
     "title": "الْإِنْسَانُ!",
     "date": "2026-10-16",
