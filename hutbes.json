@@ -1,5 +1,25 @@
 [
   {
+    "id": "cee91e206d134064",
+    "title": "Worship",
+    "date": "2026-11-06",
+    "year": 2026,
+    "language": "en",
+    "filename": "worship.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Worship.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/worship.pdf"
+  },
+  {
+    "id": "57c31f7aa5f0bd47",
+    "title": "İbadet",
+    "date": "2026-11-06",
+    "year": 2026,
+    "language": "tr",
+    "filename": "ibadet.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0badet.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/ibadet.pdf"
+  },
+  {
     "id": "f975eab455d37f44",
     "title": "الْوَحْدَةُ وَالتَّضَامُنُ",
     "date": "2026-10-30",
