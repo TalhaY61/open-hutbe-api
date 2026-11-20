@@ -144,6 +144,22 @@ Current scheduled checks:
 
 If no new hutbe is available, the workflow finishes without creating a commit.
 
+The workflows use Ubuntu 24.04 and Python 3.14 explicitly so a change to
+`ubuntu-latest` cannot silently change the operating system. Python patch
+releases remain automatic within 3.14. Direct Python dependencies are pinned in
+`requirements.txt`. Dependabot checks Python packages and GitHub Actions monthly
+and opens update PRs; the validation workflow checks installation and offline
+scraper parsing before those changes are merged. These PRs still need review
+and merging. Python minor-version and Ubuntu upgrades remain planned maintenance.
+
+To run the same offline checks locally with Python 3.14:
+
+```sh
+python -m pip install -r requirements.txt
+python -m pip check
+python -m unittest discover -s tests -v
+```
+
 ## Notes for App Developers
 
 - Treat this as a public static API. There is no authentication.
@@ -304,6 +320,14 @@ Mevcut otomatik kontrol saatleri:
 - Cuma `07:00` ve `10:00` UTC.
 
 Yeni hutbe bulunmazsa workflow commit oluşturmadan tamamlanır.
+
+Workflow'lar Ubuntu 24.04 ve Python 3.14 kullanır; `ubuntu-latest` değiştiğinde
+işletim sistemi kendiliğinden değişmez. Python 3.14 içindeki yama sürümleri
+otomatik alınır. Doğrudan Python bağımlılıkları `requirements.txt` içinde
+sabitlenmiştir. Dependabot, Python paketleri ve GitHub Actions için ayda bir
+güncelleme PR'ı açar. Doğrulama workflow'u kurulum ve çevrimdışı hutbe ayrıştırma
+kontrollerini çalıştırır. Bu PR'ların incelenip birleştirilmesi gerekir; Python
+alt sürümü ve Ubuntu yükseltmeleri de dönemsel bakım gerektirir.
 
 ## Uygulama Geliştirenler İçin Notlar
 

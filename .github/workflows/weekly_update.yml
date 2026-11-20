@@ -8,24 +8,37 @@ on:
     - cron: '0 7,10 * * 5'
   workflow_dispatch: # Allows manual trigger
 
+concurrency:
+  group: weekly-hutbe-update-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   update-hutbes:
-    runs-on: ubuntu-latest
+    # Keep OS upgrades explicit instead of following ubuntu-latest migrations.
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
     permissions:
       contents: write
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
         with:
-          python-version: '3.9'
+          python-version: '3.14'
+          check-latest: true
+          cache: pip
+          cache-dependency-path: requirements.txt
 
       - name: Install Dependencies
         run: |
-          pip install requests beautifulsoup4
+          python -m pip install -r requirements.txt
+          python -m pip check
+
+      - name: Check Scraper Compatibility
+        run: python -m unittest discover -s tests -v
 
       - name: Run Scraper Bot
         run: python scripts/scraper.py
