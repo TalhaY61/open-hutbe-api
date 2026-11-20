@@ -1,5 +1,57 @@
 [
   {
+    "id": "fed6fff26800035d",
+    "title": "الرَّحْمَةُ",
+    "date": "2026-11-20",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-fed6ff.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D8%B1%D9%91%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8F.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-fed6ff.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D8%B1%D9%91%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8F.doc",
+    "doc_filename": "hutbe-fed6ff.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/ar/2026/hutbe-fed6ff.doc"
+  },
+  {
+    "id": "4178b280fe85f146",
+    "title": "Morality in the Digital Sphere",
+    "date": "2026-11-13",
+    "year": 2026,
+    "language": "en",
+    "filename": "morality-in-the-digital-sphere.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Morality%20in%20the%20Digital%20Sphere.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/morality-in-the-digital-sphere.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Morality%20in%20the%20Digital%20Sphere.doc",
+    "doc_filename": "morality-in-the-digital-sphere.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/en/2026/morality-in-the-digital-sphere.doc"
+  },
+  {
+    "id": "aa45315386bb5e1e",
+    "title": "Compassion",
+    "date": "2026-11-20",
+    "year": 2026,
+    "language": "en",
+    "filename": "compassion.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Compassion.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/compassion.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Compassion.doc",
+    "doc_filename": "compassion.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/en/2026/compassion.doc"
+  },
+  {
+    "id": "b1cc7f9f0aee032e",
+    "title": "Merhamet",
+    "date": "2026-11-20",
+    "year": 2026,
+    "language": "tr",
+    "filename": "merhamet.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Merhamet.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/merhamet.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Merhamet.doc",
+    "doc_filename": "merhamet.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/tr/2026/merhamet.doc"
+  },
+  {
     "id": "12179da5ac63bc8a",
     "title": "الْأَخْلَاقُ فِي الْفَضَاءِ الرَّقْمِيِّ",
     "date": "2026-11-13",
@@ -7,7 +59,10 @@
     "language": "ar",
     "filename": "hutbe-12179d.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/الْأَخْلَاقُ فِي الْفَضَاءِ الرَّقْمِيِّ.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-12179d.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-12179d.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/الْأَخْلَاقُ فِي الْفَضَاءِ الرَّقْمِيِّ.doc",
+    "doc_filename": "hutbe-12179d.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/ar/2026/hutbe-12179d.doc"
   },
   {
     "id": "92afd372218647eb",
@@ -17,7 +72,10 @@
     "language": "tr",
     "filename": "dijital-mecrada-ahlak.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Dijital%20Mecrada%20Ahlak.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/dijital-mecrada-ahlak.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/dijital-mecrada-ahlak.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Dijital%20Mecrada%20Ahlak.doc",
+    "doc_filename": "dijital-mecrada-ahlak.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/tr/2026/dijital-mecrada-ahlak.doc"
   },
   {
     "id": "5e694c2abe99d914",
@@ -27,7 +85,10 @@
     "language": "ar",
     "filename": "hutbe-5e694c.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D9%92%D8%B9%D9%90%D8%A8%D9%8E%D8%A7%D8%AF%D9%8E%D8%A9%D9%8F.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-5e694c.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-5e694c.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D9%92%D8%B9%D9%90%D8%A8%D9%8E%D8%A7%D8%AF%D9%8E%D8%A9%D9%8F.doc",
+    "doc_filename": "hutbe-5e694c.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/ar/2026/hutbe-5e694c.doc"
   },
   {
     "id": "cee91e206d134064",
@@ -37,7 +98,10 @@
     "language": "en",
     "filename": "worship.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Worship.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/worship.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/worship.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Worship.doc",
+    "doc_filename": "worship.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/en/2026/worship.doc"
   },
   {
     "id": "57c31f7aa5f0bd47",
@@ -47,7 +111,10 @@
     "language": "tr",
     "filename": "ibadet.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0badet.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/ibadet.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/ibadet.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0badet.doc",
+    "doc_filename": "ibadet.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/tr/2026/ibadet.doc"
   },
   {
     "id": "f975eab455d37f44",
@@ -57,7 +124,10 @@
     "language": "ar",
     "filename": "hutbe-f975ea.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/الْوَحْدَةُ وَالتَّضَامُنُ-.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-f975ea.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-f975ea.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/الْوَحْدَةُ وَالتَّضَامُنُ-.doc",
+    "doc_filename": "hutbe-f975ea.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/ar/2026/hutbe-f975ea.doc"
   },
   {
     "id": "2b8346b516bbdf3d",
@@ -67,7 +137,10 @@
     "language": "en",
     "filename": "unity-and-solidarity-2b8346.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Unity%20and%20Solidarity-.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/unity-and-solidarity-2b8346.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/unity-and-solidarity-2b8346.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Unity%20and%20Solidarity-.doc",
+    "doc_filename": "unity-and-solidarity.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/en/2026/unity-and-solidarity.doc"
   },
   {
     "id": "416eaaab8ec8632f",
@@ -77,7 +150,10 @@
     "language": "tr",
     "filename": "birlik-ve-beraberlik-416eaa.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Birlik%20ve%20Beraberlik-.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/birlik-ve-beraberlik-416eaa.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/birlik-ve-beraberlik-416eaa.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Birlik%20ve%20Beraberlik-.doc",
+    "doc_filename": "birlik-ve-beraberlik.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/tr/2026/birlik-ve-beraberlik.doc"
   },
   {
     "id": "d60e6f8cb12795cd",
@@ -87,7 +163,10 @@
     "language": "ar",
     "filename": "hutbe-d60e6f.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D9%92%D8%A3%D9%8F%D8%B3%D9%92%D8%B1%D9%8E%D8%A9%D9%8F.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-d60e6f.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-d60e6f.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D9%92%D8%A3%D9%8F%D8%B3%D9%92%D8%B1%D9%8E%D8%A9%D9%8F.doc",
+    "doc_filename": "hutbe-d60e6f.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/ar/2026/hutbe-d60e6f.doc"
   },
   {
     "id": "f10e64ca2c2f618c",
@@ -97,7 +176,10 @@
     "language": "en",
     "filename": "family.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Family.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/family.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/family.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Family.doc",
+    "doc_filename": "family.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/en/2026/family.doc"
   },
   {
     "id": "888ca87543352097",
@@ -107,7 +189,10 @@
     "language": "tr",
     "filename": "aile.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Aile.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/aile.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/aile.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Aile.doc",
+    "doc_filename": "aile.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/tr/2026/aile.doc"
   },
   {
     "id": "92029b62d514f2d5",
@@ -117,7 +202,10 @@
     "language": "ar",
     "filename": "hutbe-92029b.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%86%D9%92%D8%B3%D9%8E%D8%A7%D9%86%D9%8F!.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-92029b.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-92029b.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D9%92%D8%A5%D9%90%D9%86%D9%92%D8%B3%D9%8E%D8%A7%D9%86%D9%8F!.doc",
+    "doc_filename": "hutbe-92029b.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/ar/2026/hutbe-92029b.doc"
   },
   {
     "id": "ab286296121c6d9c",
@@ -127,7 +215,10 @@
     "language": "en",
     "filename": "o-human-being.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/O%20Human%20Being!.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/o-human-being.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/o-human-being.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/O%20Human%20Being!.doc",
+    "doc_filename": "o-human-being.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/en/2026/o-human-being.doc"
   },
   {
     "id": "eeea957cb8cc6e90",
@@ -137,7 +228,10 @@
     "language": "tr",
     "filename": "insan.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0nsan!.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/insan.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/insan.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0nsan!.doc",
+    "doc_filename": "insan.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/tr/2026/insan.doc"
   },
   {
     "id": "33ef8561086b6660",
@@ -147,7 +241,10 @@
     "language": "ar",
     "filename": "hutbe-33ef85.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/غَزَّةُ, اِمْتِحَانُ الْبَشَرِيَّةِ.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-33ef85.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-33ef85.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/غَزَّةُ, اِمْتِحَانُ الْبَشَرِيَّةِ.doc",
+    "doc_filename": "hutbe-33ef85.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/ar/2026/hutbe-33ef85.doc"
   },
   {
     "id": "801c94c64fc63545",
@@ -157,7 +254,10 @@
     "language": "en",
     "filename": "gaza-a-test-for-humanity.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Gaza,%20A%20Test%20For%20Humanity.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/gaza-a-test-for-humanity.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/gaza-a-test-for-humanity.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Gaza,%20A%20Test%20For%20Humanity.doc",
+    "doc_filename": "gaza-a-test-for-humanity.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/en/2026/gaza-a-test-for-humanity.doc"
   },
   {
     "id": "59b2e285ce14f0c5",
@@ -167,7 +267,10 @@
     "language": "tr",
     "filename": "insanligin-sinavi-gazze.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0nsanl%C4%B1%C4%9F%C4%B1n%20S%C4%B1nav%C4%B1%20Gazze.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/insanligin-sinavi-gazze.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/insanligin-sinavi-gazze.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0nsanl%C4%B1%C4%9F%C4%B1n%20S%C4%B1nav%C4%B1%20Gazze.doc",
+    "doc_filename": "insanligin-sinavi-gazze.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/tr/2026/insanligin-sinavi-gazze.doc"
   },
   {
     "id": "88d9723a6befd280",
@@ -177,7 +280,10 @@
     "language": "ar",
     "filename": "hutbe-88d972.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/الْمَساجِدُ وَالْحَيَاةُ الِاجْتِمَاعِيَّةُ.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-88d972.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-88d972.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/الْمَساجِدُ وَالْحَيَاةُ الِاجْتِمَاعِيَّةُ.doc",
+    "doc_filename": "hutbe-88d972.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/ar/2026/hutbe-88d972.doc"
   },
   {
     "id": "2918aec07916a43f",
@@ -187,7 +293,10 @@
     "language": "en",
     "filename": "the-mosque-and-social-life.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/The%20Mosque%20and%20Social%20Life.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/the-mosque-and-social-life.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/the-mosque-and-social-life.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/The%20Mosque%20and%20Social%20Life.doc",
+    "doc_filename": "the-mosque-and-social-life.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/en/2026/the-mosque-and-social-life.doc"
   },
   {
     "id": "0fd3d2f580e1f46c",
@@ -197,7 +306,10 @@
     "language": "tr",
     "filename": "cami-ve-sosyal-hayat.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Cami%20ve%20Sosyal%20Hayat.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/cami-ve-sosyal-hayat.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/cami-ve-sosyal-hayat.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Cami%20ve%20Sosyal%20Hayat.doc",
+    "doc_filename": "cami-ve-sosyal-hayat.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/tr/2026/cami-ve-sosyal-hayat.doc"
   },
   {
     "id": "4191c0222acaf95c",
@@ -207,7 +319,10 @@
     "language": "ar",
     "filename": "hutbe-4191c0.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D9%85%D9%8E%D8%B3%D9%92%D8%A4%D9%8F%D9%88%D9%84%D9%90%D9%8A%D9%91%D9%8E%D8%AA%D9%8F%D9%86%D9%8E%D8%A7%20%D9%81%D9%90%D9%8A%20%D8%A7%D9%84%D8%AA%D9%91%D9%8E%D8%A8%D9%92%D9%84%D9%90%D9%8A%D8%BA%D9%90.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-4191c0.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-4191c0.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D9%85%D9%8E%D8%B3%D9%92%D8%A4%D9%8F%D9%88%D9%84%D9%90%D9%8A%D9%91%D9%8E%D8%AA%D9%8F%D9%86%D9%8E%D8%A7%20%D9%81%D9%90%D9%8A%20%D8%A7%D9%84%D8%AA%D9%91%D9%8E%D8%A8%D9%92%D9%84%D9%90%D9%8A%D8%BA%D9%90.doc",
+    "doc_filename": "hutbe-4191c0.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/ar/2026/hutbe-4191c0.doc"
   },
   {
     "id": "df1734d0c7891a89",
@@ -217,7 +332,10 @@
     "language": "en",
     "filename": "our-responsibility-to-convey-islam.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Our%20Responsibility%20to%20Convey%20Islam.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/our-responsibility-to-convey-islam.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/our-responsibility-to-convey-islam.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Our%20Responsibility%20to%20Convey%20Islam.doc",
+    "doc_filename": "our-responsibility-to-convey-islam.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/en/2026/our-responsibility-to-convey-islam.doc"
   },
   {
     "id": "bd9c3bde00e736b2",
@@ -227,7 +345,10 @@
     "language": "tr",
     "filename": "teblig-sorumlulugumuz.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Tebli%C4%9F%20Sorumlulu%C4%9Fumuz.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/teblig-sorumlulugumuz.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/teblig-sorumlulugumuz.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Tebli%C4%9F%20Sorumlulu%C4%9Fumuz.doc",
+    "doc_filename": "teblig-sorumlulugumuz.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/tr/2026/teblig-sorumlulugumuz.doc"
   },
   {
     "id": "5079f73738ed044d",
@@ -237,7 +358,10 @@
     "language": "ar",
     "filename": "hutbe-5079f7.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A3%D9%8E%D8%AE%D9%92%D9%84%D9%8E%D8%A7%D9%82%D9%8F%20%D8%A7%D9%84%D9%92%D8%A2%D8%AE%D9%90%D9%8A%D9%8E%D9%91%D8%A9%D9%90%20(%D8%A7%D9%84%D9%92%D8%A3%D9%8F%D8%AE%D9%8F%D9%88%D9%91%D9%8E%D8%A9%D9%90).pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-5079f7.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-5079f7.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A3%D9%8E%D8%AE%D9%92%D9%84%D9%8E%D8%A7%D9%82%D9%8F%20%D8%A7%D9%84%D9%92%D8%A2%D8%AE%D9%90%D9%8A%D9%8E%D9%91%D8%A9%D9%90%20(%D8%A7%D9%84%D9%92%D8%A3%D9%8F%D8%AE%D9%8F%D9%88%D9%91%D9%8E%D8%A9%D9%90).doc",
+    "doc_filename": "hutbe-5079f7.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/ar/2026/hutbe-5079f7.doc"
   },
   {
     "id": "24a936da34994499",
@@ -247,7 +371,10 @@
     "language": "en",
     "filename": "ethics-of-akhism.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ethics%20of%20Akhism.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/ethics-of-akhism.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/ethics-of-akhism.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ethics%20of%20Akhism.doc",
+    "doc_filename": "ethics-of-akhism.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/en/2026/ethics-of-akhism.doc"
   },
   {
     "id": "62fbf04bffd4a7a1",
@@ -257,7 +384,10 @@
     "language": "tr",
     "filename": "ahilik-ahlaki.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ah%C3%AElik%20Ahlak%C4%B1.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/ahilik-ahlaki.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/ahilik-ahlaki.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ah%C3%AElik%20Ahlak%C4%B1.doc",
+    "doc_filename": "ahilik-ahlaki.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/tr/2026/ahilik-ahlaki.doc"
   },
   {
     "id": "ed72c039e83da8ef",
@@ -267,7 +397,10 @@
     "language": "ar",
     "filename": "hutbe-ed72c0.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D8%AA%D9%91%D9%8E%D8%B1%D9%92%D8%A8%D9%8A%D9%8E%D8%A9%D9%8F%20%D9%88%D9%8E%D8%A7%D9%84%D8%AA%D9%91%D9%8E%D8%B9%D9%92%D9%84%D9%90%D9%8A%D9%85%D9%8F.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-ed72c0.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-ed72c0.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D8%AA%D9%91%D9%8E%D8%B1%D9%92%D8%A8%D9%8A%D9%8E%D8%A9%D9%8F%20%D9%88%D9%8E%D8%A7%D9%84%D8%AA%D9%91%D9%8E%D8%B9%D9%92%D9%84%D9%90%D9%8A%D9%85%D9%8F.doc",
+    "doc_filename": "hutbe-ed72c0.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/ar/2026/hutbe-ed72c0.doc"
   },
   {
     "id": "9d79941111f6ad1b",
@@ -277,7 +410,10 @@
     "language": "en",
     "filename": "education-and-instruction.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Education%20and%20Instruction.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/education-and-instruction.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/education-and-instruction.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Education%20and%20Instruction.doc",
+    "doc_filename": "education-and-instruction.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/en/2026/education-and-instruction.doc"
   },
   {
     "id": "6329d3f6b2c4357d",
@@ -287,7 +423,10 @@
     "language": "tr",
     "filename": "egitim-ve-ogretim.pdf",
     "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/E%C4%9Fitim%20ve%20%C3%96%C4%9Fretim.pdf",
-    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/egitim-ve-ogretim.pdf"
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/egitim-ve-ogretim.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/E%C4%9Fitim%20ve%20%C3%96%C4%9Fretim.doc",
+    "doc_filename": "egitim-ve-ogretim.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/tr/2026/egitim-ve-ogretim.doc"
   },
   {
     "id": "aa278e59dd2e5a90",
