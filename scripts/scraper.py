@@ -10,6 +10,8 @@ from urllib.parse import quote, unquote, urljoin, urlsplit
 
 import requests
 from bs4 import BeautifulSoup
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # ==========================================
 # SETTINGS
@@ -263,6 +265,16 @@ def determine_year(candidate: Dict) -> int:
 def main() -> None:
     requests.packages.urllib3.disable_warnings() 
     session = requests.Session()
+    # Diyanet occasionally resets connections or returns temporary server errors.
+    retries = Retry(
+        total=3,
+        backoff_factor=1,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=frozenset({'GET', 'HEAD'}),
+    )
+    adapter = HTTPAdapter(max_retries=retries)
+    session.mount('https://', adapter)
+    session.mount('http://', adapter)
     session.headers.update({
         "User-Agent": USER_AGENT,
         "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
