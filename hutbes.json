@@ -1,5 +1,18 @@
 [
   {
+    "id": "ef995f3dd100ece1",
+    "title": "Yetim",
+    "date": "2026-11-27",
+    "year": 2026,
+    "language": "tr",
+    "filename": "yetim.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Yetim.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/tr/2026/yetim.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Yetim.doc",
+    "doc_filename": "yetim.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/tr/2026/yetim.doc"
+  },
+  {
     "id": "fed6fff26800035d",
     "title": "الرَّحْمَةُ",
     "date": "2026-11-20",
