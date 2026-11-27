@@ -1,5 +1,31 @@
 [
   {
+    "id": "781bdb1669689d3c",
+    "title": "الْيَتَامَى",
+    "date": "2026-11-27",
+    "year": 2026,
+    "language": "ar",
+    "filename": "hutbe-781bdb.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D9%92%D9%8A%D9%8E%D8%AA%D9%8E%D8%A7%D9%85%D9%8E%D9%89.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/ar/2026/hutbe-781bdb.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%D8%A7%D9%84%D9%92%D9%8A%D9%8E%D8%AA%D9%8E%D8%A7%D9%85%D9%8E%D9%89.doc",
+    "doc_filename": "hutbe-781bdb.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/ar/2026/hutbe-781bdb.doc"
+  },
+  {
+    "id": "8fb3f12a7762cc77",
+    "title": "Orphans",
+    "date": "2026-11-27",
+    "year": 2026,
+    "language": "en",
+    "filename": "orphans.pdf",
+    "source_pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Orphans.pdf",
+    "pdf_url": "https://TalhaY61.github.io/open-hutbe-api/pdfs/en/2026/orphans.pdf",
+    "source_doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Orphans.doc",
+    "doc_filename": "orphans.doc",
+    "doc_url": "https://TalhaY61.github.io/open-hutbe-api/docs/en/2026/orphans.doc"
+  },
+  {
     "id": "ef995f3dd100ece1",
     "title": "Yetim",
     "date": "2026-11-27",
